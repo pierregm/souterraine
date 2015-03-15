@@ -1,0 +1,4595 @@
+[
+  {
+    "extra_artists": [
+      {
+        "role": "Artworks", 
+        "name": "Sabine Petit",
+        "name_id": {
+          "$oid": "55008a8e8af9e306a03aeef7"
+        }
+      }
+    ], 
+    "artist": {
+      "name_id": {
+        "$oid": "55008a8e8af9e306a03aef87"
+      }, 
+      "name": "Aquaserge"
+    }, 
+    "extra_artists": [], 
+    "labels": [
+      {
+        "catno": "STRN-01", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2013-12-25", 
+    "title": "MOSTLA\u200b-\u200bmix\u200b-\u200bSERGE\u200b-\u200btape", 
+    "_id": {
+      "$oid": "55008a8e8af9e306a03af007"
+    }, 
+    "tracklist": [
+      {
+        "duration": "08:32", 
+        "position": 1, 
+        "artists": [], 
+        "title": "La femme de Tahiti"
+      }, 
+      {
+        "duration": "05:12", 
+        "position": 2, 
+        "artists": [], 
+        "title": "10h15, samedi soir"
+      }, 
+      {
+        "duration": "02:40", 
+        "position": 3, 
+        "artists": [], 
+        "title": "Un soir de temp\u00eate (extrait)"
+      }, 
+      {
+        "duration": "02:33", 
+        "position": 4, 
+        "artists": [], 
+        "title": "Aqua-instrumental (extrait)"
+      }, 
+      {
+        "duration": "03:21", 
+        "position": 5, 
+        "artists": [], 
+        "title": "Mon capitaine (extrait)"
+      }, 
+      {
+        "duration": "04:10", 
+        "position": 6, 
+        "artists": [], 
+        "title": "Serge-singe"
+      }, 
+      {
+        "duration": "01:58", 
+        "position": 7, 
+        "artists": [], 
+        "title": "Viens"
+      }, 
+      {
+        "duration": "03:57", 
+        "position": 8, 
+        "artists": [], 
+        "title": "Aquabaret"
+      }, 
+      {
+        "duration": "02:59", 
+        "position": 9, 
+        "artists": [], 
+        "title": "Retrouvailles"
+      }, 
+      {
+        "duration": "04:28", 
+        "position": 10, 
+        "artists": [], 
+        "title": "Clo-Clo (extrait)"
+      }
+    ], 
+    "notes": "Some jams from Aquaserge history:\n- Un & Deux\n- Tahiti Coco\n- Ce Tr\u00e8s Cher Serge\n- IV\n"
+  }, 
+  {
+    "artist": {
+      "name_id": {
+        "$oid": "55008a8e8af9e306a03aef95"
+      }, 
+      "name": "Henning Specht"
+    }, 
+    "title": "mostla SPECHT tape", 
+    "extra_artists": [], 
+    "labels": [
+      {
+        "catno": "STRN-02", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2013-12-31", 
+    "_id": {
+      "$oid": "55008a8e8af9e306a03af008"
+    }, 
+    "tracklist": [
+      {
+        "duration": "04:55", 
+        "position": 1, 
+        "artists": [], 
+        "title": "Oben / Lausitzer Platz"
+      }, 
+      {
+        "duration": "02:25", 
+        "position": 2, 
+        "artists": [], 
+        "title": "Muttern"
+      }, 
+      {
+        "duration": "04:01", 
+        "position": 3, 
+        "artists": [], 
+        "title": "Aujourd'hui"
+      }, 
+      {
+        "duration": "03:51", 
+        "position": 4, 
+        "artists": [], 
+        "title": "Daddy's Gone"
+      }, 
+      {
+        "duration": "04:38", 
+        "position": 5, 
+        "artists": [], 
+        "title": "Das Fantom"
+      }, 
+      {
+        "duration": "04:51", 
+        "position": 6, 
+        "artists": [], 
+        "title": "Am Ufer"
+      }, 
+      {
+        "duration": "05:33", 
+        "position": 7, 
+        "artists": [], 
+        "title": "Horizon (Dub!)"
+      }, 
+      {
+        "duration": "03:21", 
+        "position": 8, 
+        "artists": [], 
+        "title": "Nicht Schlecht Herr Specht"
+      }, 
+      {
+        "duration": "02:23", 
+        "position": 9, 
+        "artists": [], 
+        "title": "Mira Mira"
+      }, 
+      {
+        "duration": "03:49", 
+        "position": 10, 
+        "artists": [], 
+        "title": "Neujahr"
+      }
+    ], 
+    "notes": "\na selection amongst the best of henning's music and a few outtakes.\ncourtesy of 2000 records.\ncredits\n"
+  }, 
+  {
+    "artist": {
+      "name_id": {
+        "$oid": "55008a8e8af9e306a03aeffd"
+      }, 
+      "name": "Gontard!"
+    }, 
+    "title": "MOSTLA mixtape", 
+    "extra_artists": [], 
+    "labels": [
+      {
+        "catno": "STRN-03", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2014-01-01", 
+    "_id": {
+      "$oid": "55008a8e8af9e306a03af009"
+    }, 
+    "tracklist": [
+      {
+        "duration": "03:46", 
+        "position": 1, 
+        "artists": [], 
+        "title": "Les Actes + Comment Ramener un Noy\u00e9 \u00e0 la Rive"
+      }, 
+      {
+        "duration": "04:56", 
+        "position": 2, 
+        "artists": [], 
+        "title": "Johnny Guitar + Est-ce que j'ai ferm\u00e9 ma ubraguette"
+      }, 
+      {
+        "duration": "02:24", 
+        "position": 3, 
+        "artists": [], 
+        "title": "Sous Influence Russe + Histore de lapins de uchiens et de dingos"
+      }, 
+      {
+        "duration": "01:40", 
+        "position": 4, 
+        "artists": [], 
+        "title": "La Meilleure du Disque + Le Soleil revient"
+      }, 
+      {
+        "duration": "02:31", 
+        "position": 5, 
+        "artists": [], 
+        "title": "Joyeux No\u00ebl #2 + Dame de France"
+      }, 
+      {
+        "duration": "03:37", 
+        "position": 6, 
+        "artists": [], 
+        "title": "Pr\u00e9nom Mohammed + Entre Bi\u00e8res et Chiens Loups"
+      }, 
+      {
+        "duration": "02:20", 
+        "position": 7, 
+        "artists": [], 
+        "title": "Madame la Pute Borgne + L'Imam et sa Femme"
+      }, 
+      {
+        "duration": "04:00", 
+        "position": 8, 
+        "artists": [], 
+        "title": "Rivoluzionari + Boom"
+      }, 
+      {
+        "duration": "02:44", 
+        "position": 9, 
+        "artists": [], 
+        "title": "Sans Morgue + Que reste-t-il de nos amours?"
+      }, 
+      {
+        "duration": "03:49", 
+        "position": 10, 
+        "artists": [], 
+        "title": "B\u00e9b\u00e9 Rockeur Careless Whisper + Les Oiseaux de la uTristesse"
+      }
+    ], 
+    "notes": "\nA best of Gontard!\nOriginally released by Sorry But Home Recordings Records.\nsorrybut.free.fr\n"
+  }, 
+  {
+    "artist": {
+      "name_id": {
+        "$oid": "55008a8e8af9e306a03aefa9"
+      }, 
+      "name": "Pierre et Bastien"
+    }, 
+    "title": "The Mostla Tape", 
+    "extra_artists": [], 
+    "labels": [
+      {
+        "catno": "STRN-11"
+      }, 
+      {
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2014-04-12", 
+    "_id": {
+      "$oid": "55008a8e8af9e306a03af011"
+    }, 
+    "tracklist": [
+      {
+        "duration": "03:18", 
+        "position": 2, 
+        "artists": [], 
+        "title": "Couple"
+      }, 
+      {
+        "duration": "03:44", 
+        "position": 2, 
+        "artists": [], 
+        "title": "Alcool"
+      }, 
+      {
+        "duration": "02:23", 
+        "position": 3, 
+        "artists": [], 
+        "title": "Voix"
+      }, 
+      {
+        "duration": "03:36", 
+        "position": 4, 
+        "artists": [], 
+        "title": "RMI"
+      }, 
+      {
+        "duration": "03:03", 
+        "position": 5, 
+        "artists": [], 
+        "title": "Luxe"
+      }, 
+      {
+        "duration": "04:58", 
+        "position": 6, 
+        "artists": [], 
+        "title": "Chanteur"
+      }, 
+      {
+        "duration": "03:32", 
+        "position": 7, 
+        "artists": [], 
+        "title": "Stress et paillettes"
+      }, 
+      {
+        "duration": "02:31", 
+        "position": 8, 
+        "artists": [], 
+        "title": "Crise"
+      }, 
+      {
+        "duration": "02:56", 
+        "position": 9, 
+        "artists": [], 
+        "title": "D\u00e9mocratie"
+      }, 
+      {
+        "duration": "03:26", 
+        "position": 10, 
+        "artists": [], 
+        "title": "Autoentrepreneur"
+      }
+    ]
+  }, 
+  {
+    "title": "Vol. 1", 
+    "extra_artists": [
+      {
+        "name_id": {
+          "$oid": "55008a8e8af9e306a03aeefe"
+        }, 
+        "role": "Artworks", 
+        "name": "S\u00e9bastien Trihan"
+      }
+    ], 
+    "labels": [
+      {
+        "catno": "STRN-05", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2014-01-15", 
+    "_id": {
+      "$oid": "55008a8e8af9e306a03af00a"
+    }, 
+    "tracklist": [
+      {
+        "duration": "04:11", 
+        "position": 1, 
+        "artists": [
+          {
+            "name_id": {
+              "$oid": "55008a8e8af9e306a03aef88"
+            }, 
+            "name": "Julien Gasc"
+          }
+        ], 
+        "title": "Ma bouche sans toi n'existe pas"
+      }, 
+      {
+        "duration": "02:13", 
+        "position": 2, 
+        "extra_artists": [
+          {
+            "name_id": {
+              "$oid": "55008a8e8af9e306a03aef89"
+            }, 
+            "role": "composer", 
+            "name": "Hyperclean"
+          }
+        ], 
+        "artists": [
+          {
+            "name_id": {
+              "$oid": "55008a8e8af9e306a03aef8a"
+            }, 
+            "name": "Catherine Hershey"
+          }
+        ], 
+        "title": "O ma ch\u00e9rie"
+      }, 
+      {
+        "duration": "02:27", 
+        "position": 3, 
+        "artists": [
+          {
+            "name_id": {
+              "$oid": "55008a8e8af9e306a03aeffe"
+            }, 
+            "name": "Arlt"
+          }
+        ], 
+        "title": "Grande fille"
+      }, 
+      {
+        "duration": "03:01", 
+        "position": 4, 
+        "artists": [
+          {
+            "name_id": {
+              "$oid": "55008a8e8af9e306a03aef8b"
+            }, 
+            "name": "Mocke"
+          }
+        ], 
+        "title": "L'ouvrier Flan"
+      }, 
+      {
+        "duration": "03:26", 
+        "position": 5, 
+        "artists": [
+          {
+            "name_id": {
+              "$oid": "55008a8e8af9e306a03aef8d"
+            }, 
+            "name": "Tara King Th."
+          }
+        ], 
+        "title": "L'enqu\u00eate"
+      }, 
+      {
+        "duration": "", 
+        "position": 6, 
+        "artists": [
+          {
+            "name_id": {
+              "$oid": "55008a8e8af9e306a03aef8e"
+            }, 
+            "name": "La F\u00e9line"
+          }
+        ], 
+        "title": "Adieu l'enfance"
+      }, 
+      {
+        "duration": "03:18", 
+        "position": 7, 
+        "artists": [
+          {
+            "name_id": {
+              "$oid": "55008a8e8af9e306a03aef8f"
+            }, 
+            "name": "Alaclair Ensemble"
+          }
+        ], 
+        "title": "Jean-Claude Van Damme (GDB)"
+      }, 
+      {
+        "duration": "03:53", 
+        "position": 8, 
+        "artists": [
+          {
+            "name_id": {
+              "$oid": "55008a8e8af9e306a03aef90"
+            }, 
+            "name": "Noir Boy George"
+          }
+        ], 
+        "title": "Enfonce-toi dans la ville"
+      }, 
+      {
+        "duration": "04:05", 
+        "position": 9, 
+        "artists": [
+          {
+            "name_id": {
+              "$oid": "55008a8e8af9e306a03aef91"
+            }, 
+            "name": "Marc Desse"
+          }
+        ], 
+        "title": "Ma fianc\u00e9e"
+      }, 
+      {
+        "duration": "06:14", 
+        "position": 10, 
+        "artists": [
+          {
+            "name_id": {
+              "$oid": "55008a8e8af9e306a03aef92"
+            }, 
+            "name": "Louisville"
+          }
+        ], 
+        "title": "LouisEville"
+      }
+    ]
+  }, 
+  {
+    "artist": {
+      "name_id": {
+        "$oid": "55008a8e8af9e306a03aef8b"
+      }, 
+      "name": "Mocke"
+    }, 
+    "title": "Sandwich mostla Jojo tape", 
+    "extra_artists": [], 
+    "labels": [
+      {
+        "catno": "STRN-04", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2014-01-31", 
+    "_id": {
+      "$oid": "55008a8e8af9e306a03af00b"
+    }, 
+    "tracklist": [
+      {
+        "duration": "02:56", 
+        "position": 1, 
+        "artists": [], 
+        "title": "Le l\u00e9gume m\u00e9sopotamien"
+      }, 
+      {
+        "duration": "03:14", 
+        "position": 2, 
+        "artists": [], 
+        "title": "Causse de mis\u00e8re"
+      }, 
+      {
+        "duration": "03:01", 
+        "position": 3, 
+        "artists": [], 
+        "title": "L'ouvrier Flan"
+      }, 
+      {
+        "duration": "03:22", 
+        "position": 4, 
+        "artists": [], 
+        "title": "Le brigadier Jean"
+      }, 
+      {
+        "duration": "03:17", 
+        "position": 5, 
+        "artists": [], 
+        "title": "Una"
+      }, 
+      {
+        "duration": "02:13", 
+        "position": 6, 
+        "artists": [], 
+        "title": "Ramos"
+      }, 
+      {
+        "duration": "02:32", 
+        "position": 7, 
+        "artists": [], 
+        "title": "Uno"
+      }, 
+      {
+        "duration": "01:55", 
+        "position": 8, 
+        "artists": [], 
+        "title": "Hank Williams s'adresse \u00e0 la nation am\u00e9ricaine"
+      }, 
+      {
+        "duration": "03:20", 
+        "position": 9, 
+        "artists": [], 
+        "title": "Bol"
+      }, 
+      {
+        "duration": "03:06", 
+        "position": 10, 
+        "artists": [], 
+        "title": "Les natifs"
+      }
+    ]
+  }, 
+  {
+    "artist": {
+      "name_id": {
+        "$oid": "55008a8e8af9e306a03aef9a"
+      }, 
+      "name": "Arnaud Le Gou\u00ebfflec"
+    }, 
+    "title": "mostlatape", 
+    "extra_artists": [], 
+    "labels": [
+      {
+        "catno": "STRN-06", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2014-02-21", 
+    "_id": {
+      "$oid": "55008a8e8af9e306a03af00c"
+    }, 
+    "tracklist": [
+      {
+        "duration": "04:30", 
+        "position": 1, 
+        "extra_artists": [
+          {
+            "name_id": {
+              "$oid": "55008a8e8af9e306a03aef02"
+            }, 
+            "role": "lyrics", 
+            "name": "Jacques Le Vasseur"
+          }
+        ], 
+        "artists": [], 
+        "title": "Antith\u00e8ses ou contrepointes du Ciel et de la Terre"
+      }, 
+      {
+        "duration": "04:51", 
+        "position": 2, 
+        "extra_artists": [
+          {
+            "name_id": {
+              "$oid": "55008a8e8af9e306a03aef03"
+            }, 
+            "role": "", 
+            "name": "John Trap"
+          }, 
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aef04"
+            }, 
+            "role": "", 
+            "name": "ooTi"
+          }
+        ], 
+        "artists": [], 
+        "title": "Femme Lune"
+      }, 
+      {
+        "duration": "08:12", 
+        "position": 3, 
+        "extra_artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aef9c"
+            }, 
+            "role": "", 
+            "name": "L'Orchestre Pr\u00e9historique"
+          }
+        ], 
+        "artists": [], 
+        "title": "J'ai abus\u00e9 du vol astral"
+      }, 
+      {
+        "duration": "03:12", 
+        "position": 4, 
+        "extra_artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aef9d"
+            }, 
+            "role": "", 
+            "name": "Jorge Bernstein and the Pioupioufuckers"
+          }
+        ], 
+        "artists": [], 
+        "title": "L'amour \u00e9lastique"
+      }, 
+      {
+        "duration": "02:37", 
+        "position": 5, 
+        "artists": [], 
+        "title": "Mon bulbe"
+      }, 
+      {
+        "duration": "03:52", 
+        "position": 6, 
+        "extra_artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aef9b"
+            }, 
+            "role": "", 
+            "name": "La Bo\u00eete \u00e0 ooTi"
+          }
+        ], 
+        "artists": [], 
+        "title": "Starouarz"
+      }, 
+      {
+        "duration": "05:04", 
+        "position": 7, 
+        "artists": [], 
+        "title": "Mon parfait homonyme"
+      }, 
+      {
+        "duration": "01:58", 
+        "position": 8, 
+        "artists": [], 
+        "title": "N'a qu'un oeil"
+      }, 
+      {
+        "duration": "03:33", 
+        "position": 9, 
+        "artists": [], 
+        "title": "Qu'est-ce qui cuit?"
+      }, 
+      {
+        "duration": "04:40", 
+        "position": 10, 
+        "artists": [], 
+        "title": "Ich bin nicht tot"
+      }
+    ]
+  }, 
+  {
+    "title": "Vol. 2", 
+    "extra_artists": [], 
+    "labels": [
+      {
+        "catno": "STRN-07", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2014-02-22", 
+    "_id": {
+      "$oid": "55008a8e8af9e306a03af00d"
+    }, 
+    "tracklist": [
+      {
+        "duration": "02:43", 
+        "position": 1, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aef89"
+            }, 
+            "name": "Hyperclean"
+          }
+        ], 
+        "title": "P\u00e9nis"
+      }, 
+      {
+        "duration": "01:46", 
+        "position": 2, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aef9e"
+            }, 
+            "name": "Chevalrex"
+          }
+        ], 
+        "title": "Jamais sans ma h\u00e2che"
+      }, 
+      {
+        "duration": "04:08", 
+        "position": 3, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aef9f"
+            }, 
+            "name": "Clich\u00e9"
+          }
+        ], 
+        "title": "Helicon"
+      }, 
+      {
+        "duration": "04:12", 
+        "position": 4, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefa0"
+            }, 
+            "name": "Nouveau Zodiaque"
+          }
+        ], 
+        "title": "Catastrophe catastrophe"
+      }, 
+      {
+        "duration": "04:29", 
+        "position": 5, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefff"
+            }, 
+            "name": "Michniak"
+          }
+        ], 
+        "title": "La lune nous voit"
+      }, 
+      {
+        "duration": "03:09", 
+        "position": 6, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefa1"
+            }, 
+            "name": "Pain-Noir"
+          }
+        ], 
+        "title": "L'arme"
+      }, 
+      {
+        "duration": "02:56", 
+        "position": 7, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefa2"
+            }, 
+            "name": "Glockabelle"
+          }
+        ], 
+        "title": "Un chat f\u00e9tiche"
+      }, 
+      {
+        "duration": "02:37", 
+        "position": 8, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aeffd"
+            }, 
+            "name": "Gontard!"
+          }
+        ], 
+        "title": "Rivoluzionari (version mostla)"
+      }, 
+      {
+        "duration": "05:27", 
+        "position": 9, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefa3"
+            }, 
+            "name": "Antoine Loyer"
+          }
+        ], 
+        "title": "Comme Rollinat"
+      }, 
+      {
+        "duration": "02:36", 
+        "position": 10, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefa4"
+            }, 
+            "name": "Baron R\u00e9tif & Concepcion Perez"
+          }
+        ], 
+        "title": "Blind Lemon"
+      }
+    ]
+  }, 
+  {
+    "title": "Mostla Chevalrex Tape", 
+    "extra_artists": [], 
+    "labels": [
+      {
+        "catno": "STRN-08", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "artists": "Chevalrex", 
+    "_id": {
+      "$oid": "55008a8e8af9e306a03af00e"
+    }, 
+    "tracklist": [
+      {
+        "duration": "02:49", 
+        "position": 1, 
+        "artists": [], 
+        "title": "Nocturne #1"
+      }, 
+      {
+        "duration": "01:41", 
+        "position": 2, 
+        "artists": [], 
+        "title": "Seconde main"
+      }, 
+      {
+        "duration": "01:10", 
+        "position": 3, 
+        "artists": [], 
+        "title": "Presque invisible"
+      }, 
+      {
+        "duration": "03:49", 
+        "position": 4, 
+        "artists": [], 
+        "title": "Le d\u00e9sert commence l\u00e0"
+      }, 
+      {
+        "duration": "05:49", 
+        "position": 5, 
+        "artists": [], 
+        "title": "Chevalrex"
+      }, 
+      {
+        "duration": "04:03", 
+        "position": 6, 
+        "artists": [], 
+        "title": "L'Olympe \u00e0 tes pieds"
+      }, 
+      {
+        "duration": "01:46", 
+        "position": 7, 
+        "artists": [], 
+        "title": "Jamais sans ma h\u00e2che"
+      }, 
+      {
+        "duration": "02:46", 
+        "position": 8, 
+        "artists": [], 
+        "title": "Beau perdant (d\u00e9mo)"
+      }, 
+      {
+        "duration": "01:29", 
+        "position": 9, 
+        "artists": [], 
+        "title": "Bas relief"
+      }, 
+      {
+        "duration": "03:03", 
+        "position": 10, 
+        "artists": [], 
+        "title": "Mon hublot"
+      }
+    ], 
+    "notes": "\nOriginally released by Sorry But Home Recordings Records (2006 - 2013)\nExcept 01 + 08 shortly released by Objet Disque (2014)\n"
+  }, 
+  {
+    "artist": {
+      "_id": {
+        "$oid": "55008a8e8af9e306a03aef89"
+      }, 
+      "name": "Hyperclean"
+    }, 
+    "title": "La mostla tape", 
+    "extra_artists": [], 
+    "labels": [
+      {
+        "catno": "STRN-09", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2014-03-21", 
+    "_id": {
+      "$oid": "55008a8e8af9e306a03af00f"
+    }, 
+    "tracklist": [
+      {
+        "title": "Sous le soleil", 
+        "extra_artists": [
+          {
+            "role": "", 
+            "artist": ""
+          }
+        ], 
+        "year": 2002, 
+        "artists": [], 
+        "duration": "02:25", 
+        "position": 1
+      }, 
+      {
+        "title": "Le pistolet (version alternative)", 
+        "extra_artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aef06"
+            }, 
+            "role": "recording", 
+            "name": "Olivier Cussac"
+          }, 
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aeef6"
+            }, 
+            "role": "Drums", 
+            "name": "Julien Barbagallo"
+          }, 
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aef06"
+            }, 
+            "role": "Basses, trompettes, claviers, violons et arrangements", 
+            "name": "Olivier Cussac"
+          }
+        ], 
+        "year": 2002, 
+        "artists": [], 
+        "duration": "04:49", 
+        "position": 2
+      }, 
+      {
+        "title": "Grand escalier", 
+        "extra_artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aeef9"
+            }, 
+            "role": "Choir", 
+            "name": "Catherine Hershey"
+          }, 
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aef0b"
+            }, 
+            "role": "Choir", 
+            "name": "Astrid de la Chapelle"
+          }, 
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aef00"
+            }, 
+            "role": "Drums", 
+            "name": "Emma Mario"
+          }
+        ], 
+        "year": 2013, 
+        "artists": [], 
+        "duration": "04:02", 
+        "position": 3
+      }, 
+      {
+        "title": "Nirvana", 
+        "extra_artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aeef6"
+            }, 
+            "role": "Drums", 
+            "name": "Julien Barbagallo"
+          }, 
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aef06"
+            }, 
+            "role": "Bass, Trumpet, Keyboards, Violin and arrangements", 
+            "name": "Olivier Cussac"
+          }
+        ], 
+        "year": 2002, 
+        "artists": [], 
+        "duration": "05:24", 
+        "position": 4
+      }, 
+      {
+        "title": "L'escalier nazi y\u00e9y\u00e9", 
+        "extra_artists": [
+          {
+            "role": "", 
+            "artist": ""
+          }
+        ], 
+        "year": 2006, 
+        "artists": [], 
+        "duration": "02:34", 
+        "position": 5
+      }, 
+      {
+        "title": "La langue", 
+        "extra_artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aef0a"
+            }, 
+            "role": "Drums", 
+            "name": "\u00c9mile Sornin"
+          }, 
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aeef4"
+            }, 
+            "role": "Bass", 
+            "name": "Benjamin Glibert"
+          }
+        ], 
+        "year": 2013, 
+        "artists": [], 
+        "duration": "03:32", 
+        "position": 6
+      }, 
+      {
+        "title": "Capitaine cool", 
+        "extra_artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aef06"
+            }, 
+            "role": "Bass, Trumpet, Keyboards, Violin and arrangements", 
+            "name": "Olivier Cussac"
+          }, 
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aeef4"
+            }, 
+            "role": "Guitar", 
+            "name": "Benjamin Glibert"
+          }, 
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aeef6"
+            }, 
+            "role": "Drums", 
+            "name": "Julien Barbagallo"
+          }
+        ], 
+        "year": 2002, 
+        "artists": [], 
+        "duration": "03:31", 
+        "position": 7
+      }, 
+      {
+        "title": "L'homme qui marche vite", 
+        "extra_artists": [], 
+        "year": 2001, 
+        "artists": [], 
+        "duration": "04:06", 
+        "position": 8
+      }, 
+      {
+        "title": "Horizon", 
+        "extra_artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aef06"
+            }, 
+            "role": "Bass, Trumpet, Keyboards, Violin and arrangements", 
+            "name": "Olivier Cussac"
+          }
+        ], 
+        "year": 2002, 
+        "artists": [], 
+        "duration": "03:15", 
+        "position": 9
+      }, 
+      {
+        "title": "P\u00e9nis", 
+        "extra_artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aeef4"
+            }, 
+            "role": "Guitar", 
+            "name": "Benjamin Glibert"
+          }, 
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aeef6"
+            }, 
+            "role": "Drums", 
+            "name": "Julien Barbagallo"
+          }
+        ], 
+        "year": 2014, 
+        "artists": [], 
+        "duration": "02:44", 
+        "position": 10
+      }
+    ], 
+    "notes": "\nLimited edition of 50 ex.\n#1: Recorded at home in 2002\n#2: Recorded at Olivier Cussac House in 2002\n#3: Recorded at home in 2013\n#4: Recorded at Olivier Cussac House in 2002\n#5: Demo, Recoded in my bedroom in 2006\n#6: Recorded at Electric ami Studio in 2013\n#7: Recorded at Olivier Cussac House in 2002\n#8: Demo recorded at home in 2001\n#9: Recorded at Olivier Cussac House in 2002\n#10: Recorded at Electric ami Studio in 2014\n"
+  }, 
+  {
+    "artist": {
+      "_id": {
+        "$oid": "55008a8e8af9e306a03aefa8"
+      }, 
+      "name": "Julien Granjean"
+    }, 
+    "title": "La mostla bleue", 
+    "extra_artists": [], 
+    "labels": [
+      {
+        "catno": "STRN-10", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2014-04-01", 
+    "_id": {
+      "$oid": "55008a8e8af9e306a03af010"
+    }, 
+    "tracklist": [
+      {
+        "duration": "03:02", 
+        "position": 1, 
+        "artists": [], 
+        "title": "Mon frangin"
+      }, 
+      {
+        "duration": "01:08", 
+        "position": 2, 
+        "artists": [], 
+        "title": "Les angles morts"
+      }, 
+      {
+        "duration": "02:27", 
+        "position": 3, 
+        "artists": [], 
+        "title": "Soutine"
+      }, 
+      {
+        "duration": "01:27", 
+        "position": 4, 
+        "artists": [], 
+        "title": "Le fin mot"
+      }, 
+      {
+        "duration": "02:54", 
+        "position": 5, 
+        "artists": [], 
+        "title": "Menaces/mauvaise pente"
+      }, 
+      {
+        "duration": "La planque", 
+        "position": 6, 
+        "artists": [], 
+        "title": "02:49"
+      }, 
+      {
+        "duration": "01:34", 
+        "position": 7, 
+        "artists": [], 
+        "title": "Si tu flanches"
+      }, 
+      {
+        "duration": "02:14", 
+        "position": 8, 
+        "artists": [], 
+        "title": "La neige \u00e9tait sale"
+      }, 
+      {
+        "duration": "02:24", 
+        "position": 9, 
+        "artists": [], 
+        "title": "Chanson pour le voyageur"
+      }, 
+      {
+        "duration": "03:00", 
+        "position": 10, 
+        "artists": [], 
+        "title": "Trois milliards de kilom\u00e8tres"
+      }
+    ], 
+    "notes": "\n"
+  }, 
+  {
+    "title": "Vol. 3", 
+    "extra_artists": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeefe"
+        }, 
+        "role": "Artwork", 
+        "name": "S\u00e9bastien Trihan"
+      }
+    ], 
+    "labels": [
+      {
+        "catno": "STRN-12", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2014-04-30", 
+    "_id": {
+      "$oid": "55008a8f8af9e306a03af012"
+    }, 
+    "tracklist": [
+      {
+        "duration": "02:47", 
+        "position": 1, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aef87"
+            }, 
+            "name": "Aquaserge"
+          }
+        ], 
+        "title": "A l'amiti\u00e9 (version mostla)"
+      }, 
+      {
+        "duration": "03:25", 
+        "position": 2, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefaa"
+            }, 
+            "name": "Joseph-Edmond Vincent Leduc"
+          }
+        ], 
+        "title": "Jolie Machine"
+      }, 
+      {
+        "duration": "03:56", 
+        "position": 3, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefab"
+            }, 
+            "name": "R\u00e9mi Parson"
+          }
+        ], 
+        "title": "La tristesse"
+      }, 
+      {
+        "duration": "04:00", 
+        "position": 4, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefac"
+            }, 
+            "name": "Pharaon de Winter"
+          }
+        ], 
+        "title": "Les yeux"
+      }, 
+      {
+        "duration": "03:27", 
+        "position": 5, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefad"
+            }, 
+            "name": "Eddy Crampes"
+          }
+        ], 
+        "title": "White spirit"
+      }, 
+      {
+        "duration": "03:43", 
+        "position": 6, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefae"
+            }, 
+            "name": "Petit Tambour"
+          }
+        ], 
+        "title": "L'aurore"
+      }, 
+      {
+        "duration": "09:52", 
+        "position": 7, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefaf"
+            }, 
+            "name": "la Baracande"
+          }
+        ], 
+        "title": "L\u00e0 haut l\u00e0 haut dedans la tour"
+      }, 
+      {
+        "duration": "02:08", 
+        "position": 8, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefb0"
+            }, 
+            "name": "Cikatri$"
+          }
+        ], 
+        "title": "Quand me r\u00e9veillerai-je?"
+      }, 
+      {
+        "duration": "03:10", 
+        "position": 9, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefb1"
+            }, 
+            "name": "Baptiste W. Hamon"
+          }
+        ], 
+        "title": "Les bords de l'Yonne"
+      }, 
+      {
+        "duration": "05:21", 
+        "position": 10, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefb2"
+            }, 
+            "name": "Facteurs Chevaux"
+          }
+        ], 
+        "title": "Scie"
+      }
+    ]
+  }, 
+  {
+    "artist": {
+      "_id": {
+        "$oid": "55008a8e8af9e306a03aefb3"
+      }, 
+      "name": "Nicolas Paugam"
+    }, 
+    "title": "Aqua Mostlae", 
+    "extra_artists": [], 
+    "labels": [
+      {
+        "catno": "STRN-13", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2014-05-12", 
+    "_id": {
+      "$oid": "55008a8f8af9e306a03af013"
+    }, 
+    "tracklist": [
+      {
+        "duration": "03:45", 
+        "position": 1, 
+        "artists": [], 
+        "title": "Le col du Galibier"
+      }, 
+      {
+        "duration": "03:52", 
+        "position": 2, 
+        "artists": [], 
+        "title": "L'eau de la mer"
+      }, 
+      {
+        "duration": "03:27", 
+        "position": 3, 
+        "artists": [], 
+        "title": "Facile"
+      }, 
+      {
+        "duration": "04:32", 
+        "position": 4, 
+        "artists": [], 
+        "title": "La fi\u00e8vre"
+      }, 
+      {
+        "duration": "04:10", 
+        "position": 5, 
+        "artists": [], 
+        "title": "J'ai connu une colombe"
+      }, 
+      {
+        "duration": "03:26", 
+        "position": 6, 
+        "artists": [], 
+        "title": "La nature, c'est beau sans doute"
+      }, 
+      {
+        "duration": "02:59", 
+        "position": 7, 
+        "artists": [], 
+        "title": "Pa\u00efole Koja"
+      }, 
+      {
+        "duration": "03:29", 
+        "position": 8, 
+        "artists": [], 
+        "title": "Les serpents de l'Arkansas"
+      }, 
+      {
+        "duration": "05:09", 
+        "position": 9, 
+        "artists": [], 
+        "title": "La merveille des merveilles"
+      }, 
+      {
+        "duration": "04:35", 
+        "position": 10, 
+        "artists": [], 
+        "title": "Tu vois pas qu'on s'aime pas"
+      }
+    ], 
+    "notes": "\nNon d\u00e9mentie...\nJe suis n\u00e9 difficilement le 27 f\u00e9vrier 1970 \u00e0 Nantes. M\u00e8re et moi avons beaucoup bataill\u00e9. Quelques mois plus tard na\u00eet mon fr\u00e8re, Alexandre. Je suis tr\u00e8s jaloux. Pour me d\u00e9tendre, j\u2019\u00e9coute en boucle The Freewheelin de Bob Dylan, le live \u00e0 l\u2019Olympia d\u2019Allan Styvell, et un disque de fl\u00fbte de pan p\u00e9ruvienne, de ceux que l\u2019on trouve par dizaines dans les vide-greniers berrichons (information v\u00e9rifi\u00e9e). Mon p\u00e8re ayant les semelles de vent et la fibre soixante-huitarde, nous partons comme de juste cultiver des ch\u00e8vres en Haute-Loire. J\u2019ai 5 ans. Sans plus de d\u00e9tails, me voici adolescent. Je passe le plus clair de mon temps \u00e0 philosopher sur un bicross. Mon fr\u00e8re est au piano. Nul ne perd les p\u00e9dales.\nAh j\u2019oubliais ! entretemps, mes parents ont divorc\u00e9. Appara\u00eet un nouveau personnage, le bien nomm\u00e9 Nounours ; m\u00e9lomane averti et batteur amateur, Bud Powell, Django Reinhardt et les bopeurs s\u2019invitent \u00e0 la maison. Je dois dire que cela me d\u00e9passe.\nJ\u2019ai 19 ans. Je commence la guitare compulsivement (David Bowie, Jimmy Hendrix, Nick Drake et Robert Wyatt sont \u00e9tudi\u00e9s de pr\u00e8s). Nous formons notre premier groupe, les Syncop\u2019s, nous jouons essentiellement des reprises (The Clash, The Doors, Led Zeppelin ou the Stones). Bient\u00f4t les id\u00e9es personnelles affluent. Nous composons nos premi\u00e8res chansons en fran\u00e7ais et en anglais. Ce seront les premi\u00e8res maquettes, les premiers disques, l\u2019avant Da Capo, l\u2019avant Lithium. De quoi envisager quelques galettes posthumes.\n1995 Petite cons\u00e9cration, nous signons un quatre titres sur le Single Club du label Lithium The Man I used to be. Le groupe s\u2019appellera d\u00e9sormais Da Capo.\n1997 l\u2019album Minor Swing sort sur ce m\u00eame label. La presse en fait l\u2019\u00e9loge, la comparaison abusive au groupe Love revient r\u00e9guli\u00e8rement. Le disque sort au Japon sur le label Toshiba. Nous partons en tourn\u00e9e en Espagne avec The Married Monks et jouons, entre autres, un concert, in memoriam, au caf\u00e9 de la Danse en premi\u00e8re partie du groupe Supergrass.\nJ\u2019ai 31 ans. Me voici \u00e0 Paris. Je monte avec mon fr\u00e8re (encore !!) un groupe de swing manouche Les Fr\u00e8res Paugam \u00e0 Meustaches (parce qu\u2019il y a du travail et parce que Django). S\u2019ensuivent des centaines de concerts dans les caf\u00e9s parisiens.\n2001 Sort le second album de Da Capo The Fruit chez Poplane. En parlant de fruits, je deviens p\u00e8re \u00e0 36 ans. Je compose pour eux La Valse aux jumeaux, renouant ainsi avec ma veine cr\u00e9atrice, un temps disparue mais non d\u00e9mentie.\nJ\u2019enregistre plusieurs disques de jazz avec l\u2019accord\u00e9oniste Ren\u00e9 Sopa, le clarinettiste Sylvain Hamel, le violoniste et chanteur Daniel John Martin, le guitariste Alexandre Freiman et le saxophoniste C\u00e9sar Poirier dont un album de mes compositions hant\u00e9es Le Tamanoir de mes r\u00eaves.\n2006 J\u2019\u00e9crase la concurrence, pourtant rude, en devenant laur\u00e9at du concours Jules-Verne Radio France, (disque BD jazz chez Nocturne).\n2008 Je triomphe en emportant le prix du jury au concours Musiques en courts de la ville de Sceaux.\nJ\u2019ai 40 ans. J\u2019\u00e9cris mes premi\u00e8res chansons en fran\u00e7ais tout en \u00e9coutant, paradoxalement des artistes br\u00e9siliens. Je suis admiratif de la MPB (Milton nascimento) et du Tropicalisme (Tom Z\u00e9 et Jorge Ben). S\u2019ensuivent deux albums : Douces Barbaries (2011) et Le Col du Galibier (2013).\n2014 Sortie de la compilation Aqua Mostlae sur www.souterraine.biz, en partenariat avec l\u2019\u00e9mission Planet Claire et Almost Musique.\nJ\u2019ai 44 ans. Je d\u00e9cide de jouer au loto.\ncredits\n"
+  }, 
+  {
+    "artist": {
+      "_id": {
+        "$oid": "55008a8e8af9e306a03aeffd"
+      }, 
+      "name": "Gontard!"
+    }, 
+    "title": "Sauvagerie tropicale - MOSTLA tape vol 2", 
+    "extra_artists": [], 
+    "labels": [
+      {
+        "catno": "STRN-14", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2014-05-19", 
+    "_id": {
+      "$oid": "55008a8f8af9e306a03af014"
+    }, 
+    "tracklist": [
+      {
+        "duration": "04:06", 
+        "position": 1, 
+        "artists": [], 
+        "title": "Hors de port\u00e9e + Romans sur Is\u00e8re"
+      }, 
+      {
+        "duration": "01:56", 
+        "position": 2, 
+        "artists": [], 
+        "title": "Petrodollars"
+      }, 
+      {
+        "duration": "03:47", 
+        "position": 3, 
+        "artists": [], 
+        "title": "Oh moi + Adaptation"
+      }, 
+      {
+        "duration": "05:54", 
+        "position": 4, 
+        "artists": [], 
+        "title": "Inutile d'affranchir + Ostalgie"
+      }, 
+      {
+        "duration": "03:44", 
+        "position": 5, 
+        "artists": [], 
+        "title": "Anarchosolitaire + Ah Singapour"
+      }, 
+      {
+        "duration": "02:42", 
+        "position": 6, 
+        "artists": [], 
+        "title": "La France des \u00e9piciers + Hells Angels"
+      }, 
+      {
+        "duration": "04:30", 
+        "position": 7, 
+        "artists": [], 
+        "title": "Sauvagerie tropicale + Mon fr\u00e8re est fils unique"
+      }, 
+      {
+        "duration": "02:20", 
+        "position": 8, 
+        "artists": [], 
+        "title": "Vulvophobia + Vince Taylor"
+      }, 
+      {
+        "duration": "03:04", 
+        "position": 9, 
+        "artists": [], 
+        "title": "La saison des grands froids"
+      }, 
+      {
+        "duration": "07:17", 
+        "position": 1, 
+        "artists": [], 
+        "title": "La lutte des chasses + Bo\u00eete noire"
+      }
+    ]
+  }, 
+  {
+    "artist": {
+      "_id": {
+        "$oid": "55008a8e8af9e306a03aefb5"
+      }, 
+      "name": "Taulard"
+    }, 
+    "title": "Tape Mostla", 
+    "extra_artists": [], 
+    "labels": [
+      {
+        "catno": "STRN-15", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2014-05-36", 
+    "_id": {
+      "$oid": "55008a8f8af9e306a03af015"
+    }, 
+    "tracklist": [
+      {
+        "duration": "02:56", 
+        "position": 1, 
+        "artists": [], 
+        "title": "Ville portuaire"
+      }, 
+      {
+        "duration": "01:17", 
+        "position": 2, 
+        "artists": [], 
+        "title": "Fuir"
+      }, 
+      {
+        "duration": "02:21", 
+        "position": 3, 
+        "artists": [], 
+        "title": "31 12 00"
+      }, 
+      {
+        "duration": "01:36", 
+        "position": 4, 
+        "artists": [], 
+        "title": "Sous le m\u00eame toit"
+      }, 
+      {
+        "duration": "01:31", 
+        "position": 5, 
+        "artists": [], 
+        "title": "Dans mes tempes"
+      }, 
+      {
+        "duration": "02:01", 
+        "position": 6, 
+        "artists": [], 
+        "title": "Londres"
+      }, 
+      {
+        "duration": "05:02", 
+        "position": 7, 
+        "artists": [], 
+        "title": "Frankreich katastrophe"
+      }, 
+      {
+        "duration": "02:11", 
+        "position": 8, 
+        "artists": [], 
+        "title": "Pourquoi suis-je all\u00e9 au Boom?"
+      }, 
+      {
+        "duration": "02:35", 
+        "position": 9, 
+        "artists": [], 
+        "title": "Les abords du lyc\u00e9e"
+      }, 
+      {
+        "duration": "03:31", 
+        "position": 10, 
+        "artists": [], 
+        "title": "Se sortir d'un faux pas"
+      }
+    ], 
+    "notes": ""
+  }, 
+  {
+    "title": "mostLaPiNtape", 
+    "extra_artists": [], 
+    "artist": {
+      "name_id": {
+        "$oid": "5505c3438af9e3367bb723c8"
+      }, 
+      "name": "Lapin"
+    }, 
+    "label": [
+      {
+        "catno": "STRN-36", 
+        "name": "la Souterraine"
+      }
+    ], 
+    "released": "2015-01-31", 
+    "_id": {
+      "$oid": "5505c39a8af9e3367bb723de"
+    }, 
+    "tracklist": [
+      {
+        "duration": "03:15", 
+        "position": 1, 
+        "title": "Cette fille"
+      }, 
+      {
+        "duration": "03:20", 
+        "position": 2, 
+        "title": "L'oeil dans le bleu du ciel"
+      }, 
+      {
+        "duration": "02:34", 
+        "position": 3, 
+        "title": "Une paire de bras"
+      }, 
+      {
+        "duration": "04:15", 
+        "position": 4, 
+        "title": "Coco"
+      }, 
+      {
+        "duration": "04:39", 
+        "position": 5, 
+        "title": "Coeurs solitaires"
+      }, 
+      {
+        "duration": "03:12", 
+        "position": 6, 
+        "title": "Le continent rose"
+      }, 
+      {
+        "duration": "04:44", 
+        "position": 7, 
+        "title": "Ciel des nuits"
+      }, 
+      {
+        "duration": "03:43", 
+        "position": 8, 
+        "title": "Petite fleur"
+      }, 
+      {
+        "duration": "03:14", 
+        "position": 9, 
+        "title": "La nuit"
+      }, 
+      {
+        "duration": "04:48", 
+        "position": 10, 
+        "title": "Les montagnes de sucre"
+      }
+    ]
+  }, 
+  {
+    "artist": {
+      "_id": {
+        "$oid": "55008a8e8af9e306a03aef8d"
+      }, 
+      "name": "Tara King Th."
+    }, 
+    "title": "mostla tara tape", 
+    "extra_artists": [], 
+    "labels": [
+      {
+        "catno": "STRN-16", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2014-06-21", 
+    "_id": {
+      "$oid": "55008a8f8af9e306a03af016"
+    }, 
+    "tracklist": [
+      {
+        "duration": "03:26", 
+        "position": 1, 
+        "artists": [], 
+        "title": "L'enqu\u00eate"
+      }, 
+      {
+        "duration": "04:12", 
+        "position": 2, 
+        "artists": [], 
+        "title": "Ventolin (with Halasan Bazar)"
+      }, 
+      {
+        "duration": "03:30", 
+        "position": 3, 
+        "artists": [], 
+        "title": "Il en aura fallu du temps"
+      }, 
+      {
+        "duration": "02:10", 
+        "position": 4, 
+        "artists": [], 
+        "title": "Pretty mess"
+      }, 
+      {
+        "duration": "03:41", 
+        "position": 5, 
+        "artists": [], 
+        "title": "The hum and the hiss"
+      }, 
+      {
+        "duration": "03:41", 
+        "position": 6, 
+        "artists": [], 
+        "title": "Astro Girl"
+      }, 
+      {
+        "duration": "02:32", 
+        "position": 7, 
+        "artists": [], 
+        "title": "Mutuelle appr\u00e9ciation"
+      }, 
+      {
+        "duration": "03:12", 
+        "position": 8, 
+        "artists": [], 
+        "title": "Slow quest and misery"
+      }, 
+      {
+        "duration": "02:23", 
+        "position": 9, 
+        "artists": [], 
+        "title": "Allez"
+      }, 
+      {
+        "duration": "04:44", 
+        "position": 10, 
+        "artists": [], 
+        "title": "Dreamt mutation part 1 & 2"
+      }
+    ], 
+    "notes": "\n2007-2014\n- Morceaux issus de u\" Acoustic recordings\" (10), u\"Extravagant, Grotesque & Nonchalant\" (4, 6), u\"Uncolored Past part 1\" (5, 8), u\"Hirondelle et Beretta\" (1, 3, 7, 9), u\"Tara King th. & Halasan Bazar\" (2)\n\nL'enqu\u00eate\nwww.youtube.com/watch?v=U8uxMgQFAlY&list=PLiLqlbmjQoUyTKlAIovk45BunN6DoF9mJ\nPretty mess\nwww.youtube.com/watch?v=fEiJpXCxbNo\nThe Hum and the Hiss\nwww.youtube.com/watch?v=hASWOO1ZHTI\nMutuelle appr\u00e9ciation\nwww.youtube.com/watch?v=EitVs3S0beQ&list=PLiLqlbmjQoUyTKlAIovk45BunN6DoF9mJ\nSlow quest & Misery\nwww.youtube.com/watch?v=uBEBH11NP70\nDreamt Mutation\nwww.youtube.com/watch?v=4orn-_tiBFU\ncredits\n"
+  }, 
+  {
+    "artist": {
+      "_id": {
+        "$oid": "55008a8e8af9e306a03aefb6"
+      }, 
+      "name": "Trotski Nautique"
+    }, 
+    "title": "mostla Trotski tape Nautique", 
+    "extra_artists": [], 
+    "labels": [
+      {
+        "catno": "STRN-17", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2014-07-04", 
+    "_id": {
+      "$oid": "55008a8f8af9e306a03af017"
+    }, 
+    "tracklist": [
+      {
+        "duration": "02:13", 
+        "position": 1, 
+        "artists": [], 
+        "title": "\u00c7a Sent Le Mennen (Nirvana cover)"
+      }, 
+      {
+        "duration": "01:51", 
+        "position": 2, 
+        "artists": [], 
+        "title": "Les hommes-sandwichs"
+      }, 
+      {
+        "duration": "01:38", 
+        "position": 3, 
+        "artists": [], 
+        "title": "Les valeurs du sport"
+      }, 
+      {
+        "duration": "01:30", 
+        "position": 4, 
+        "artists": [], 
+        "title": "David Chaussure"
+      }, 
+      {
+        "duration": "02:00", 
+        "position": 5, 
+        "artists": [], 
+        "title": "P\u00e9n\u00e9lope Bagieu en Plus Gras"
+      }, 
+      {
+        "duration": "02:05", 
+        "position": 6, 
+        "artists": [], 
+        "title": "Careless Whisper (George Michael cover)"
+      }, 
+      {
+        "duration": "01:11", 
+        "position": 7, 
+        "artists": [], 
+        "title": "Le temps b\u00e9ni des colonies de vacances"
+      }, 
+      {
+        "duration": "01:20", 
+        "position": 8, 
+        "artists": [], 
+        "title": "Mort Con"
+      }, 
+      {
+        "duration": "01:41", 
+        "position": 9, 
+        "artists": [], 
+        "title": "DIY"
+      }, 
+      {
+        "duration": "02:23", 
+        "position": 10, 
+        "artists": [], 
+        "title": "Terminator i s\u2019Baque"
+      }
+    ]
+  }, 
+  {
+    "artist": {
+      "_id": {
+        "$oid": "55008a8e8af9e306a03aefb7"
+      }, 
+      "name": "Savon Tranchand"
+    }, 
+    "title": "SAVON TRANCHAND mostla tape", 
+    "extra_artists": [], 
+    "labels": [
+      {
+        "catno": "STRN-18", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2014-07-25", 
+    "_id": {
+      "$oid": "55008a8f8af9e306a03af018"
+    }, 
+    "tracklist": [
+      {
+        "duration": "02:38", 
+        "position": 1, 
+        "artists": [], 
+        "title": "1984"
+      }, 
+      {
+        "duration": "02:33", 
+        "position": 2, 
+        "extra_artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefb8"
+            }, 
+            "role": "Remix", 
+            "name": "Cheatcode"
+          }
+        ], 
+        "artists": [], 
+        "title": "La marquise"
+      }, 
+      {
+        "duration": "03:56", 
+        "position": 3, 
+        "artists": [], 
+        "title": "Koursk"
+      }, 
+      {
+        "duration": "05:52", 
+        "position": 4, 
+        "artists": [], 
+        "title": "La t\u00e2che"
+      }, 
+      {
+        "duration": "03:22", 
+        "position": 5, 
+        "artists": [], 
+        "title": "Abricot machine"
+      }, 
+      {
+        "duration": "02:38", 
+        "position": 6, 
+        "extra_artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aef5e"
+            }, 
+            "role": "Remix", 
+            "name": "Morusque"
+          }
+        ], 
+        "artists": [], 
+        "title": "La nuit masqu\u00e9e-Morusque"
+      }, 
+      {
+        "duration": "03:16", 
+        "position": 7, 
+        "artists": [], 
+        "title": "La f\u00f4r\u00e9"
+      }, 
+      {
+        "duration": "03:43", 
+        "position": 8, 
+        "artists": [], 
+        "title": "Les bleus"
+      }, 
+      {
+        "duration": "02:27", 
+        "position": 9, 
+        "artists": [], 
+        "title": "L'horreur"
+      }, 
+      {
+        "duration": "02:30", 
+        "position": 10, 
+        "artists": [], 
+        "title": "Femme cicatrice"
+      }
+    ], 
+    "notes": "\nBonjour, vous pouvez \u00e9couter ici des \u00e9chantillons en or pur de la musique de Savon Tranchand, duo compos\u00e9 de Sophie Savon et de Beno\u00eet Tranchand. De nombreuses choses sont visibles et/ou audibles sur notre site\nwww.savontranchand.org\nTous les titres sont enregistr\u00e9s et mix\u00e9s par Emiliano Flores sauf 1. et 10.\n1. 1984 (2008) : La fin du monde, les extra-terrestres, l'amour impossible... qu'est-ce qui nous a pris ?\n2. Marquise (remix by Cheatcode, 2010) : Dans le livre-disque 'Savon Tranchand', compos\u00e9 d'une bande dessin\u00e9e et d'un LP-CD, nous avons d\u00e9cid\u00e9 d'utiliser le remix de ce titre par Cheatcode en guise de version officielle. Nous avons fait avec ce groupe de circuit-bending foutraque des concerts qui font partie de nos grands souvenirs sc\u00e9niques.\n3. Koursk (2013) : Chanson \u00e9galement compos\u00e9e \u00e0 l'occasion du Cabaret de l'Horreur organis\u00e9 par La Toute Folle en 2007. Variante subtile d'une c\u00e9l\u00e8bre chanson o\u00f9 le sous-marin \u00e9tait jaune, elle \u00e9tait \u00e0 l'origine chant\u00e9e par un ch\u0153ur d'officiers en vareuses et casquettes d'op\u00e9rette, avec des algues sur les \u00e9paules. \u00c9tonnamment, malgr\u00e9 les efforts de Beno\u00eet pour effacer ce titre du r\u00e9pertoire, tout le monde adore ce morceau.\n4. La Tache (2014) : Chanson diptyque qui est sortie sur un flexi-disque rouge transparent \u00e0 s\u00e9rie limit\u00e9e par le label suisse Chiesa Chiusa. Dernier enregistrement en date, en attendant le prochain LP pour 2015...\n5. Abricot machine (2008) : Avec ce texte, Beno\u00eet a essay\u00e9 d'expliquer de fa\u00e7on claire (et bilingue fran\u00e7ais-allemand) l'origine de l'Art Po\u00e9tique. Les interpr\u00e9tations divergent encore \u00e0 ce jour.\n6. La nuit masqu\u00e9e (remix par Morusque, 2014) : Remix de La Nuit Masqu\u00e9e par Morusque, ex membre de Cheatcode : morusque.bandcamp.com\n7. La f\u00f4r\u00e9 (2013) : Ce titre est disponible sur un 45 tours en s\u00e9rie limit\u00e9 press\u00e9 par des punks de Hambourg, il a heureusement \u00e9t\u00e9 aussi repris sur le LP Disque bleu.\n8. Les Bleus (2013) : Texte \u00e9crit et chant\u00e9 par Sophie. Une des chansons pr\u00e9f\u00e9r\u00e9es de Beno\u00eet.\n9. L'horreur (2008) : Chanson compos\u00e9e \u00e0 l'occasion du Grand Cabaret de l'Horreur organis\u00e9 par La Toute Folle en 2007. Une version en allemand existe, o\u00f9 le refrain fait 'Fleisch ! Fleisch ! Fleisch !' ('Viande ! Viande ! Viande !) Gros succ\u00e8s \u00e0 Berlin.\n10. La Femme-Cicatrice (2007) :La Femme-Cicatrice fait partie des toutes premi\u00e8res chansons cr\u00e9\u00e9es et enregistr\u00e9es par Savon Tranchand, elle est pr\u00e9sente sur Tous Jeux Interdits, le premier disque enti\u00e8rement DIY (auto-enregistrement, auto-mixage, auto-production, auto-pliage et collage de la pochette photographi\u00e9e par Sandrine Marc...).\n"
+  }, 
+  {
+    "title": "mostlADA tape", 
+    "extra_artists": [], 
+    "labels": [
+      {
+        "catno": "STRN-18", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2014-08-19", 
+    "_id": {
+      "$oid": "55008a8f8af9e306a03af019"
+    }, 
+    "tracklist": [
+      {
+        "duration": "04:48", 
+        "position": 1, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefb9"
+            }, 
+            "name": "Accident"
+          }
+        ], 
+        "title": "Parfum d'Adult\u00e8re"
+      }, 
+      {
+        "duration": "02:48", 
+        "position": 2, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefba"
+            }, 
+            "name": "Les Fr\u00e8res Nubuck"
+          }
+        ], 
+        "title": "J.T. Leroy"
+      }, 
+      {
+        "duration": "04:30", 
+        "position": 3, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefbb"
+            }, 
+            "name": "Hoepffner"
+          }
+        ], 
+        "title": "Loups dents saillantes"
+      }, 
+      {
+        "duration": "03:38", 
+        "position": 4, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aef9b"
+            }, 
+            "name": "La Bo\u00eete \u00e0 ooTi"
+          }, 
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03af000"
+            }, 
+            "name": "Dominique A."
+          }
+        ], 
+        "title": "Le Chevalier Noir"
+      }, 
+      {
+        "duration": "04:12", 
+        "position": 5, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefbc"
+            }, 
+            "name": "Pumuckl"
+          }
+        ], 
+        "title": "Remords"
+      }, 
+      {
+        "duration": "03:04", 
+        "position": 6, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefbd"
+            }, 
+            "name": "Del Cielo"
+          }
+        ], 
+        "title": "Propri\u00e9taire \u00e0 la mer"
+      }, 
+      {
+        "duration": "05:34", 
+        "position": 7, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefbe"
+            }, 
+            "name": "Z\u00e9ro Degr\u00e9"
+          }
+        ], 
+        "title": "La lie de la Soci\u00e9t\u00e9"
+      }, 
+      {
+        "duration": "03:26", 
+        "position": 8, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefbf"
+            }, 
+            "name": "Gypsophile"
+          }
+        ], 
+        "title": "Devant les fleurs singuli\u00e8res"
+      }, 
+      {
+        "duration": "05:34", 
+        "position": 9, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefc0"
+            }, 
+            "name": "Cvantez"
+          }
+        ], 
+        "title": "J'avais des habitudes"
+      }, 
+      {
+        "duration": "04:34", 
+        "position": 10, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefc1"
+            }, 
+            "name": "Lou"
+          }
+        ], 
+        "title": "Corps & \u00e2me"
+      }
+    ], 
+    "notes": "\nThanks to GDO / A D\u00e9couvrir Absolument\nwww.adecouvrirabsolument.com/compilations\n"
+  }, 
+  {
+    "artist": {
+      "_id": {
+        "$oid": "55008a8e8af9e306a03aefc3"
+      }, 
+      "name": "Colombey"
+    }, 
+    "title": "Colombey mostla tape", 
+    "extra_artists": [], 
+    "labels": [
+      {
+        "catno": "STRN-20", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2014-09-12", 
+    "_id": {
+      "$oid": "55008a8f8af9e306a03af01a"
+    }, 
+    "tracklist": [
+      {
+        "duration": "02:17", 
+        "position": 1, 
+        "artists": [], 
+        "title": "Aval\u00e9 par l'oubli"
+      }, 
+      {
+        "duration": "01:52", 
+        "position": 2, 
+        "artists": [], 
+        "title": "A nos amours"
+      }, 
+      {
+        "duration": "02:07", 
+        "position": 3, 
+        "artists": [], 
+        "title": "Vers Melun"
+      }, 
+      {
+        "duration": "01:38", 
+        "position": 4, 
+        "artists": [], 
+        "title": "Dans la caravane"
+      }, 
+      {
+        "duration": "02:55", 
+        "position": 5, 
+        "artists": [], 
+        "title": "Fille perdue et tr\u00e8s belle"
+      }, 
+      {
+        "duration": "03:22", 
+        "position": 6, 
+        "artists": [], 
+        "title": "J'ai tout oubli\u00e9"
+      }, 
+      {
+        "duration": "02:49", 
+        "position": 7, 
+        "artists": [], 
+        "title": "La ville ferme"
+      }, 
+      {
+        "duration": "01:29", 
+        "position": 8, 
+        "artists": [], 
+        "title": "Boire"
+      }, 
+      {
+        "duration": "01:58", 
+        "position": 9, 
+        "artists": [], 
+        "title": "Dernier \u00e0 Saint Dizier"
+      }, 
+      {
+        "duration": "03:06", 
+        "position": 10, 
+        "artists": [], 
+        "title": "Rebais c'est fini (la cassette bleue)"
+      }
+    ]
+  }, 
+  {
+    "title": "Vol. 4", 
+    "extra_artists": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeefe"
+        }, 
+        "role": "Artworks", 
+        "name": "S\u00e9bastien Trihan"
+      }
+    ], 
+    "labels": [
+      {
+        "catno": "STRN-21", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2014-09-22", 
+    "_id": {
+      "$oid": "55008a8f8af9e306a03af01b"
+    }, 
+    "tracklist": [
+      {
+        "duration": "04:28", 
+        "position": 1, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefc4"
+            }, 
+            "name": "Carl et les Hommes Bo\u00eetes"
+          }
+        ], 
+        "title": "Le Chanteur"
+      }, 
+      {
+        "duration": "03:18", 
+        "position": 2, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03af001"
+            }, 
+            "name": "Julien Barbagallo"
+          }
+        ], 
+        "title": "\u00c7a, Tu Me"
+      }, 
+      {
+        "duration": "02:40", 
+        "position": 3, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefc5"
+            }, 
+            "name": "Laure Briard"
+          }
+        ], 
+        "title": "R\u00e9v\u00e9lations Mystiques"
+      }, 
+      {
+        "duration": "03:51", 
+        "position": 4, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefc6"
+            }, 
+            "name": "Orso Jesenska"
+          }
+        ], 
+        "title": "Paroles"
+      }, 
+      {
+        "duration": "04:15", 
+        "position": 5, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefc7"
+            }, 
+            "name": "Ricky Hollywood"
+          }
+        ], 
+        "title": "Trop de bruit"
+      }, 
+      {
+        "duration": "03:12", 
+        "position": 6, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefca"
+            }, 
+            "name": "Dorian Pimpernel"
+          }
+        ], 
+        "title": "Perturbations Atmosph\u00e9riques"
+      }, 
+      {
+        "duration": "01:17", 
+        "position": 7, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefb5"
+            }, 
+            "name": "Taulard"
+          }
+        ], 
+        "title": "Fuir"
+      }, 
+      {
+        "duration": "01:54", 
+        "position": 8, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefc9"
+            }, 
+            "name": "Rhume"
+          }
+        ], 
+        "title": "Das tes yeux"
+      }, 
+      {
+        "duration": "02:17", 
+        "position": 9, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefc8"
+            }, 
+            "name": "Alma Forrer"
+          }
+        ], 
+        "title": "Bobby (Tes Nuits)"
+      }, 
+      {
+        "duration": "02:55", 
+        "position": 10, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefcb"
+            }, 
+            "name": "Laetitia Sadier"
+          }
+        ], 
+        "title": "Depuis le centre du coeur"
+      }
+    ], 
+    "notes": "Available on http://souterraine.biz/album/la-souterraine-vol-4\nDepuis Le Centre Du Coeur is the french version of L\u00e6titia Sadier's u\"Release From The Centre Of Your Heart\" on Something Shines (Drag City)"
+  }, 
+  {
+    "artist": {
+      "_id": {
+        "$oid": "55008a8e8af9e306a03aefcf"
+      }, 
+      "name": "Carl-\u00c9ric Hudon"
+    }, 
+    "title": "Mostla tape", 
+    "extra_artists": [], 
+    "labels": [
+      {
+        "catno": "STRN-22", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2014-10-08", 
+    "_id": {
+      "$oid": "55008a8f8af9e306a03af01c"
+    }, 
+    "tracklist": [
+      {
+        "duration": "03:56", 
+        "position": 1, 
+        "artists": [], 
+        "title": "Tous les h\u00e9licopt\u00e8res"
+      }, 
+      {
+        "duration": "03:29", 
+        "position": 2, 
+        "artists": [], 
+        "title": "Que Dieu b\u00e9nisse les marathoniennes"
+      }, 
+      {
+        "duration": "03:08", 
+        "position": 3, 
+        "artists": [], 
+        "title": "La route est longue"
+      }, 
+      {
+        "duration": "03:54", 
+        "position": 4, 
+        "artists": [], 
+        "title": "Quand on s'emm\u00eale des fois dans l'herbe"
+      }, 
+      {
+        "duration": "01:59", 
+        "position": 5, 
+        "artists": [], 
+        "title": "Ananas Bongo Love"
+      }, 
+      {
+        "duration": "06:07", 
+        "position": 6, 
+        "artists": [], 
+        "title": "Porcelaine"
+      }, 
+      {
+        "duration": "03:13", 
+        "position": 7, 
+        "artists": [], 
+        "title": "Betty Betty non"
+      }, 
+      {
+        "duration": "03:40", 
+        "position": 8, 
+        "artists": [], 
+        "title": "Corrigan"
+      }, 
+      {
+        "duration": "04:48", 
+        "position": 9, 
+        "artists": [], 
+        "title": "Hier soir"
+      }, 
+      {
+        "duration": "03:13", 
+        "position": 10, 
+        "artists": [], 
+        "title": "Notre propre roulette russe"
+      }
+    ]
+  }, 
+  {
+    "artist": {
+      "_id": {
+        "$oid": "55008a8e8af9e306a03aefd0"
+      }, 
+      "name": "Midget!"
+    }, 
+    "title": "Le single & les faces b", 
+    "extra_artists": [], 
+    "labels": [
+      {
+        "catno": "STRN-23", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2014-10-11", 
+    "_id": {
+      "$oid": "55008a8f8af9e306a03af01d"
+    }, 
+    "tracklist": [
+      {
+        "duration": "03:34", 
+        "position": 1, 
+        "artists": [], 
+        "title": "L'occident (version mostla)"
+      }, 
+      {
+        "duration": "03:19", 
+        "position": 2, 
+        "artists": [], 
+        "title": "Une balle perdue"
+      }, 
+      {
+        "duration": "03:39", 
+        "position": 3, 
+        "artists": [], 
+        "title": "Je m'en remets"
+      }, 
+      {
+        "duration": "02:55", 
+        "position": 4, 
+        "artists": [], 
+        "title": "Jours de bal"
+      }, 
+      {
+        "duration": "04:11", 
+        "position": 5, 
+        "artists": [], 
+        "title": "Entre les corps"
+      }, 
+      {
+        "duration": "03:16", 
+        "position": 6, 
+        "artists": [], 
+        "title": "Adieu ma terre"
+      }, 
+      {
+        "duration": "02:13", 
+        "position": 7, 
+        "artists": [], 
+        "title": "Au coin du virtuel feu"
+      }, 
+      {
+        "duration": "03:34", 
+        "position": 8, 
+        "artists": [], 
+        "title": "Pleurez dans vos draps"
+      }, 
+      {
+        "duration": "03:32", 
+        "position": 9, 
+        "artists": [], 
+        "title": "L'ottomane"
+      }, 
+      {
+        "duration": "02:53", 
+        "position": 1, 
+        "artists": [], 
+        "title": "Lest\u00e9 de fer"
+      }
+    ], 
+    "notes": "\nAvec l'aimable autorisationde We Are Unique Records (www.weareunique.fr)\n"
+  }, 
+  {
+    "title": "Freaksville mostla Tape", 
+    "extra_artists": [], 
+    "labels": [
+      {
+        "catno": "STRN-24", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2014-10-11", 
+    "_id": {
+      "$oid": "55008a8f8af9e306a03af01e"
+    }, 
+    "tracklist": [
+      {
+        "duration": "04:28", 
+        "position": 1, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefd1"
+            }, 
+            "name": "MFU"
+          }
+        ], 
+        "title": "12 Houses"
+      }, 
+      {
+        "duration": "02:22", 
+        "position": 2, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefd2"
+            }, 
+            "name": "Double Fran\u00e7oise"
+          }
+        ], 
+        "title": "La b\u00eate"
+      }, 
+      {
+        "duration": "02:17", 
+        "position": 3, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefd7"
+            }, 
+            "name": "Benjamin Schoos"
+          }
+        ], 
+        "title": "La vida de un luchador"
+      }, 
+      {
+        "duration": "03:28", 
+        "position": 4, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefd3"
+            }, 
+            "name": "Sophie Galet"
+          }, 
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefd4"
+            }, 
+            "name": "Kramer"
+          }
+        ], 
+        "title": "Dans ton silence"
+      }, 
+      {
+        "duration": "07:54", 
+        "position": 5, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefd5"
+            }, 
+            "name": "NOW"
+          }
+        ], 
+        "title": "Good Natured Serpent"
+      }, 
+      {
+        "duration": "01:38", 
+        "position": 6, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefd6"
+            }, 
+            "name": "Goldenboy"
+          }
+        ], 
+        "title": "Chapitre VI"
+      }, 
+      {
+        "duration": "03:55", 
+        "position": 7, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefd7"
+            }, 
+            "name": "Benjamin Schoos"
+          }
+        ], 
+        "title": "Plutanus 91"
+      }, 
+      {
+        "duration": "03:41", 
+        "position": 8, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aef8e"
+            }, 
+            "name": "La F\u00e9line"
+          }
+        ], 
+        "title": "Ta main"
+      }, 
+      {
+        "duration": "03:25", 
+        "position": 9, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefd8"
+            }, 
+            "name": "Superstar Chazam"
+          }
+        ], 
+        "title": "Powerfeeling (instrumental)"
+      }, 
+      {
+        "duration": "04:37", 
+        "position": 10, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefd9"
+            }, 
+            "name": "Loved Drones, The"
+          }, 
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefcb"
+            }, 
+            "name": "Laetitia Sadier"
+          }
+        ], 
+        "title": "Contact (en direct aux Botaniques Bruxelles en 2011)"
+      }
+    ], 
+    "notes": "\n    Freaksville is an indie record label based in Belgium.\nMore than a label, it's a family of french music lovers, a team of amazing musicians, illustrators, producers, cult artists, lyricists from belgium and foreign countries. Our LPs sound different in the small world of french pop music.\nwww.freaksvillerec.com\n"
+  }, 
+  {
+    "title": "Mostla Tape", 
+    "extra_artists": [], 
+    "labels": [
+      {
+        "catno": "STRN-25", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2014-10-21", 
+    "_id": {
+      "$oid": "55008a8f8af9e306a03af01f"
+    }, 
+    "tracklist": [
+      {
+        "duration": "04:48", 
+        "position": 1, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefa4"
+            }, 
+            "name": "Baron R\u00e9tif & Concepcion Perez"
+          }
+        ], 
+        "title": "Minz"
+      }, 
+      {
+        "duration": "02:26", 
+        "position": 2, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefa4"
+            }, 
+            "name": "Baron R\u00e9tif & Concepcion Perez"
+          }
+        ], 
+        "title": "Caille"
+      }, 
+      {
+        "duration": "03:27", 
+        "position": 3, 
+        "extra_artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefa4"
+            }, 
+            "role": "Remix", 
+            "name": "Baron R\u00e9tif & Concepcion Perez"
+          }
+        ], 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03af002"
+            }, 
+            "name": "Big Mister Doom"
+          }
+        ], 
+        "title": "Flourish"
+      }, 
+      {
+        "duration": "03:05", 
+        "position": 4, 
+        "extra_artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefa4"
+            }, 
+            "role": "Remix", 
+            "name": "Baron R\u00e9tif & Concepcion Perez"
+          }
+        ], 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03af003"
+            }, 
+            "name": "Laurent Garnier"
+          }
+        ], 
+        "title": "Revenge of the LoL Cat"
+      }, 
+      {
+        "duration": "03:36", 
+        "position": 5, 
+        "extra_artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefa4"
+            }, 
+            "role": "Remix", 
+            "name": "Baron R\u00e9tif & Concepcion Perez"
+          }
+        ], 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03af004"
+            }, 
+            "name": "Roc\u00e9"
+          }
+        ], 
+        "title": "Assis sur une pierre (instrumental)"
+      }, 
+      {
+        "duration": "02:00", 
+        "position": 6, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefa4"
+            }, 
+            "name": "Baron R\u00e9tif & Concepcion Perez"
+          }
+        ], 
+        "title": "le Roi XXVII"
+      }, 
+      {
+        "duration": "03:53", 
+        "position": 7, 
+        "extra_artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefa4"
+            }, 
+            "role": "Remix", 
+            "name": "Baron R\u00e9tif & Concepcion Perez"
+          }
+        ], 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03af005"
+            }, 
+            "name": "Jacaranda Muse"
+          }
+        ], 
+        "title": "Let You Go"
+      }, 
+      {
+        "duration": "03:45", 
+        "position": 8, 
+        "extra_artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefa4"
+            }, 
+            "role": "Remix", 
+            "name": "Baron R\u00e9tif & Concepcion Perez"
+          }
+        ], 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03af006"
+            }, 
+            "name": "COEFF"
+          }
+        ], 
+        "title": "On Roule (instrumental)"
+      }, 
+      {
+        "duration": "02:17", 
+        "position": 9, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefa4"
+            }, 
+            "name": "Baron R\u00e9tif & Concepcion Perez"
+          }
+        ], 
+        "title": "China Club"
+      }, 
+      {
+        "duration": "03:46", 
+        "position": 10, 
+        "extra_artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aef42"
+            }, 
+            "role": "Commposer", 
+            "name": "Georges Brassens"
+          }
+        ], 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefa4"
+            }, 
+            "name": "Baron R\u00e9tif & Concepcion Perez"
+          }
+        ], 
+        "title": "Supplique pour \u00eatre enterr\u00e9 \u00e0 la plage de S\u00e8te"
+      }
+    ], 
+    "notes": "\nSIDE A\n- Minz - unreleased (circa 2007)\n- Caille - Originaly released by WTF IS SWAG on Eat Dessert Only cassette comp (2013) www.wtfisswag.com\n- Big Mister Doom - Flourish (BR&CP remix) - Originaly released by Fremdtunes on Reprogram - a sequence of remixes (2013) / www.fremdtunes.com\n- Laurent Garnier - Revenge of the Lol Cat (BR&CP remix) - Originaly released by Musique Large on A13 (2014) / musiquelarge.bandcamp.com\n- Roc\u00e9 - Assis Sur Une Pierre (instrumental) - unreleased ( 2012) 'Assis Sur Une Pierre' appears on Roc\u00e9's album GUNZ N ROCE / www.facebook.com/rocemusic\n\nSIDE B\n- Le Roi XXVII - unreleased (circa 2007)\n- Jacaranda Muse - Let You Go (BR&CP remix) - Originaly released by Heavenly Sweetness on Digging the Blogosphere vol.2 (2013) / www.heavenly-sweetness.com\n- COEFF - On Roule (instrumental) - unreleased ( 2013) 'On Roule' appears on COEFF's EP X6T www.coeff.bandcamp.com\n- China Club - Originaly released on ADDISQT's Nobody knows vol.4 CD-R (2006)\n- Supplique pour \u00eatre enterr\u00e9 \u00e0 la plage de S\u00e8te - Georges Brassens cover, unreleased (2014)\n"
+  }, 
+  {
+    "artist": {
+      "_id": {
+        "$oid": "55008a8e8af9e306a03aef8a"
+      }, 
+      "name": "Catherine Hershey"
+    }, 
+    "title": "Ici le coeur - mostla Tape", 
+    "extra_artists": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef43"
+        }, 
+        "role": "Mix, Mastering", 
+        "name": "Jan Vysocky"
+      }
+    ], 
+    "labels": [
+      {
+        "catno": "STRN-26", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2014-10-27", 
+    "_id": {
+      "$oid": "55008a8f8af9e306a03af020"
+    }, 
+    "tracklist": [
+      {
+        "duration": "01:15", 
+        "position": 1, 
+        "artists": [], 
+        "title": "Au del\u00e0 des bras"
+      }, 
+      {
+        "duration": "01:09", 
+        "position": 2, 
+        "artists": [], 
+        "title": "Bonheur"
+      }, 
+      {
+        "duration": "01:49", 
+        "position": 3, 
+        "artists": [], 
+        "title": "La chute"
+      }, 
+      {
+        "duration": "01:41", 
+        "position": 4, 
+        "artists": [], 
+        "title": "Homme nu"
+      }, 
+      {
+        "duration": "01:38", 
+        "position": 5, 
+        "artists": [], 
+        "title": "Carole Bouquet"
+      }, 
+      {
+        "duration": "01:14", 
+        "position": 6, 
+        "artists": [], 
+        "title": "Ici le coeur"
+      }, 
+      {
+        "duration": "00:35", 
+        "position": 7, 
+        "artists": [], 
+        "title": "Le p\u00e9lerin"
+      }, 
+      {
+        "duration": "01:32", 
+        "position": 8, 
+        "artists": [], 
+        "title": "Unica"
+      }, 
+      {
+        "duration": "02:10", 
+        "position": 9, 
+        "artists": [], 
+        "title": "Perfection de l'oeuf"
+      }, 
+      {
+        "duration": "02:00", 
+        "position": 10, 
+        "artists": [], 
+        "title": "L'arbre"
+      }
+    ], 
+    "notes": "\nenregistr\u00e9 \u00e0 la Maison Banane et au studio Cairos entre 2012 et 2014\nmix et mastering: Jan Vysocky\n"
+  }, 
+  {
+    "artist": {
+      "_id": {
+        "$oid": "55008a8e8af9e306a03af001"
+      }, 
+      "name": "Julien Barbagallo"
+    }, 
+    "title": "Amor de Lonh", 
+    "extra_artists": [], 
+    "labels": [
+      {
+        "catno": "STRN-27", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2014-11-01", 
+    "_id": {
+      "$oid": "55008a8f8af9e306a03af021"
+    }, 
+    "tracklist": [
+      {
+        "duration": "03:30", 
+        "position": 1, 
+        "artists": [], 
+        "title": "La r\u00e9conciliation"
+      }, 
+      {
+        "duration": "03:21", 
+        "position": 2, 
+        "artists": [], 
+        "title": "\u00c0 c\u00f4t\u00e9 de toi"
+      }, 
+      {
+        "duration": "03:18", 
+        "position": 3, 
+        "artists": [], 
+        "title": "\u00c7a, tu me"
+      }, 
+      {
+        "duration": "03:42", 
+        "position": 4, 
+        "artists": [], 
+        "title": "La soif"
+      }, 
+      {
+        "duration": "01:45", 
+        "position": 5, 
+        "artists": [], 
+        "title": "La r\u00e9conciliation (\u00e9pilogue)"
+      }, 
+      {
+        "duration": "02:48", 
+        "position": 6, 
+        "artists": [], 
+        "title": "Mourir l\u00e0-bas"
+      }, 
+      {
+        "duration": "03:32", 
+        "position": 7, 
+        "artists": [], 
+        "title": "On se d\u00e9cide"
+      }, 
+      {
+        "duration": "02:52", 
+        "position": 8, 
+        "artists": [], 
+        "title": "Il n'y a pas mort d'homme"
+      }, 
+      {
+        "duration": "01:57", 
+        "position": 9, 
+        "artists": [], 
+        "title": "Tout dire"
+      }, 
+      {
+        "duration": "04:12", 
+        "position": 10, 
+        "artists": [], 
+        "title": "Le dernier pays (mostla bonus)"
+      }
+    ]
+  }, 
+  {
+    "title": "chanson fran\u00e7aise d\u00e9g\u00e9n\u00e9r\u00e9e MOSTLA", 
+    "extra_artists": [], 
+    "labels": [
+      {
+        "catno": "STRN-28", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2014-11-06", 
+    "_id": {
+      "$oid": "55008a8f8af9e306a03af022"
+    }, 
+    "tracklist": [
+      {
+        "duration": "04:53", 
+        "position": 1, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aef90"
+            }, 
+            "name": "Noir Boy George"
+          }
+        ], 
+        "title": "Les villes de moins de 4000 habitants"
+      }, 
+      {
+        "duration": "02:03", 
+        "position": 2, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefda"
+            }, 
+            "name": "Ventre de biche"
+          }
+        ], 
+        "title": "Je veux \u00eatre ton chien"
+      }, 
+      {
+        "duration": "02:43", 
+        "position": 3, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aeffd"
+            }, 
+            "name": "Gontard!"
+          }
+        ], 
+        "title": "Tes bras"
+      }, 
+      {
+        "duration": "02:46", 
+        "position": 4, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefdb"
+            }, 
+            "name": "Charnier"
+          }
+        ], 
+        "title": "La honte"
+      }, 
+      {
+        "duration": "03:29", 
+        "position": 5, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefe2"
+            }, 
+            "name": "Casio Judiciaire"
+          }
+        ], 
+        "title": "Travaux pubiques"
+      }, 
+      {
+        "duration": "02:12", 
+        "position": 6, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefdc"
+            }, 
+            "name": "Mulan Serrico"
+          }
+        ], 
+        "title": "La vit"
+      }, 
+      {
+        "duration": "02:06", 
+        "position": 7, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefdd"
+            }, 
+            "name": "Costes"
+          }
+        ], 
+        "title": "Dans mon HLM"
+      }, 
+      {
+        "duration": "04:06", 
+        "position": 8, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefde"
+            }, 
+            "name": "Klaus Legal"
+          }
+        ], 
+        "title": "Bris\u00e9 cass\u00e9"
+      }, 
+      {
+        "duration": "01:40", 
+        "position": 9, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefdf"
+            }, 
+            "name": "SIDA"
+          }
+        ], 
+        "title": "Poucave"
+      }, 
+      {
+        "duration": "03:46", 
+        "position": 10, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefe0"
+            }, 
+            "name": "P\u00e9tra Pied de Biche"
+          }
+        ], 
+        "title": "CoOn"
+      }
+    ]
+  }, 
+  {
+    "title": "La Souterraine\u200b-\u200baux\u200b-\u200bAm\u00e9riques", 
+    "extra_artists": [], 
+    "labels": [
+      {
+        "catno": "STRN-28", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2014-11-01", 
+    "_id": {
+      "$oid": "55008a8f8af9e306a03af023"
+    }, 
+    "tracklist": [
+      {
+        "duration": "03:26", 
+        "position": 1, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefe1"
+            }, 
+            "name": "Ponctuation"
+          }
+        ], 
+        "title": "\u00c0 bout de souffle"
+      }, 
+      {
+        "duration": "06:15", 
+        "position": 2, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefe3"
+            }, 
+            "name": "Dead Obies"
+          }
+        ], 
+        "title": "Montr\u00e9al $ud"
+      }, 
+      {
+        "duration": "04:28", 
+        "position": 3, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefe4"
+            }, 
+            "name": "Les Passagers"
+          }
+        ], 
+        "title": "Oulannne"
+      }, 
+      {
+        "duration": "01:36", 
+        "position": 4, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefe5"
+            }, 
+            "name": "Slowdance"
+          }
+        ], 
+        "title": "Santiano"
+      }, 
+      {
+        "duration": "02:12", 
+        "position": 5, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefe6"
+            }, 
+            "name": "DTCV"
+          }
+        ], 
+        "title": "Dommage!"
+      }, 
+      {
+        "duration": "04:04", 
+        "position": 6, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefe7"
+            }, 
+            "name": "Murmure"
+          }
+        ], 
+        "title": "Exag\u00e8re"
+      }, 
+      {
+        "duration": "01:52", 
+        "position": 7, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefe8"
+            }, 
+            "name": "Arrington de Dionyso"
+          }
+        ], 
+        "title": "Crocodile Dents-de-Ciment"
+      }, 
+      {
+        "duration": "02:02", 
+        "position": 8, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefe9"
+            }, 
+            "name": "Jesuslesfilles"
+          }
+        ], 
+        "title": "Mort de fatigue"
+      }, 
+      {
+        "duration": "03:55", 
+        "position": 9, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefea"
+            }, 
+            "name": "Crooked Bangs"
+          }
+        ], 
+        "title": "Ce type"
+      }, 
+      {
+        "duration": "04:34", 
+        "position": 10, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefaa"
+            }, 
+            "name": "Joseph-Edmond Vincent Leduc"
+          }
+        ], 
+        "title": "Concours"
+      }
+    ]
+  }, 
+  {
+    "artist": {
+      "_id": {
+        "$oid": "55008a8e8af9e306a03aefeb"
+      }, 
+      "name": "Bernard Grancher"
+    }, 
+    "title": "Bernard Grancher Mostla Tape", 
+    "extra_artists": [], 
+    "labels": [
+      {
+        "catno": "STRN-29", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2014-11-12", 
+    "_id": {
+      "$oid": "55008a8f8af9e306a03af024"
+    }, 
+    "tracklist": [
+      {
+        "duration": "04:14", 
+        "position": 1, 
+        "artists": [], 
+        "title": "Animal"
+      }, 
+      {
+        "duration": "04:30", 
+        "position": 2, 
+        "artists": [], 
+        "title": "Rouage"
+      }, 
+      {
+        "duration": "05:41", 
+        "position": 3, 
+        "artists": [], 
+        "title": "Les courses"
+      }, 
+      {
+        "duration": "03:14", 
+        "position": 4, 
+        "artists": [], 
+        "title": "Un homme moderne"
+      }, 
+      {
+        "duration": "09:17", 
+        "position": 5, 
+        "artists": [], 
+        "title": "Pauvre type #1 Pauvre type #2"
+      }, 
+      {
+        "duration": "04:10", 
+        "position": 6, 
+        "artists": [], 
+        "title": "Chic types (Coeur de Cible d\u00e9mo)"
+      }, 
+      {
+        "duration": "01:08", 
+        "position": 7, 
+        "artists": [], 
+        "title": "YEYA"
+      }, 
+      {
+        "duration": "02:09", 
+        "position": 8, 
+        "artists": [], 
+        "title": "Sex abused"
+      }, 
+      {
+        "duration": "04:09", 
+        "position": 9, 
+        "artists": [], 
+        "title": "De la merde"
+      }, 
+      {
+        "duration": "04:59", 
+        "position": 10, 
+        "artists": [], 
+        "title": "Bubonic teenie weenie"
+      }
+    ]
+  }, 
+  {
+    "title": "beko_mostla tape", 
+    "extra_artists": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef85"
+        }, 
+        "role": "Mastering", 
+        "name": "Rex Fonofor"
+      }
+    ], 
+    "labels": [
+      {
+        "catno": "STRN-30", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2014-11-25", 
+    "_id": {
+      "$oid": "55008a8f8af9e306a03af025"
+    }, 
+    "tracklist": [
+      {
+        "duration": "03:36", 
+        "position": 1, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefec"
+            }, 
+            "name": "The Royal Landscaping Society"
+          }
+        ], 
+        "title": "Bleu comme toi"
+      }, 
+      {
+        "duration": "04:39", 
+        "position": 2, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefed"
+            }, 
+            "name": "Doctrine"
+          }
+        ], 
+        "title": "Parador"
+      }, 
+      {
+        "duration": "04:04", 
+        "position": 3, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefee"
+            }, 
+            "name": "Drug Train"
+          }
+        ], 
+        "title": "Telle affaire"
+      }, 
+      {
+        "duration": "03:47", 
+        "position": 4, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aeff0"
+            }, 
+            "name": "I Do Not Love"
+          }, 
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefef"
+            }, 
+            "name": "Julie Mouchel"
+          }
+        ], 
+        "title": "Someday please (mieux que le silence)"
+      }, 
+      {
+        "duration": "03:10", 
+        "position": 5, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aeff1"
+            }, 
+            "name": "Micro Cheval"
+          }
+        ], 
+        "title": "Je t'attends"
+      }, 
+      {
+        "duration": "03:30", 
+        "position": 6, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aeff2"
+            }, 
+            "name": "Super Crayon"
+          }
+        ], 
+        "title": "RF-Y 162"
+      }, 
+      {
+        "duration": "02:05", 
+        "position": 7, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aeff3"
+            }, 
+            "name": "Maman Kusters"
+          }
+        ], 
+        "title": "78"
+      }, 
+      {
+        "duration": "03:37", 
+        "position": 8, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aeff4"
+            }, 
+            "name": "D\u00e9j\u00e0 Vu"
+          }, 
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aeff5"
+            }, 
+            "name": "Skint Eastwood"
+          }
+        ], 
+        "title": "D\u00e9dales"
+      }, 
+      {
+        "duration": "03:20", 
+        "position": 9, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aeff6"
+            }, 
+            "name": "Self Portraits"
+          }
+        ], 
+        "title": "La brume"
+      }, 
+      {
+        "duration": "02:50", 
+        "position": 10, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aeff7"
+            }, 
+            "name": "Seahorse Hunter"
+          }
+        ], 
+        "title": "L'hippocampe"
+      }, 
+      {
+        "duration": "04:21", 
+        "position": 11, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aeff8"
+            }, 
+            "name": "Kim Ki O"
+          }, 
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aeff9"
+            }, 
+            "name": "EDH"
+          }
+        ], 
+        "title": "Obsolete"
+      }, 
+      {
+        "duration": "02:32", 
+        "position": 12, 
+        "artists": [
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aeffa"
+            }, 
+            "name": "Yuko Yuko"
+          }, 
+          {
+            "_id": {
+              "$oid": "55008a8e8af9e306a03aefed"
+            }, 
+            "name": "Doctrine"
+          }
+        ], 
+        "title": "Pas tout l'apr\u00e8s midi"
+      }
+    ]
+  }, 
+  {
+    "artist": {
+      "_id": {
+        "$oid": "55008a8e8af9e306a03aeffc"
+      }, 
+      "name": "Le B\u00e2timent"
+    }, 
+    "title": "R\u00e9pertoire (Mostla tape)", 
+    "extra_artists": [], 
+    "labels": [
+      {
+        "catno": "STRN-31", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2014-12-10", 
+    "_id": {
+      "$oid": "55008a8f8af9e306a03af026"
+    }, 
+    "tracklist": [
+      {
+        "duration": "02:32", 
+        "position": 1, 
+        "artists": [], 
+        "title": "Ma vie (dedans)"
+      }, 
+      {
+        "duration": "03:10", 
+        "position": 2, 
+        "artists": [], 
+        "title": "Je ne jouerais pas \u00e0 ce jeu-l\u00e0"
+      }, 
+      {
+        "duration": "02:24", 
+        "position": 3, 
+        "artists": [], 
+        "title": "On fait comme on a dit (le cahier noir)"
+      }, 
+      {
+        "duration": "04:12", 
+        "position": 4, 
+        "artists": [], 
+        "title": "Je sais o\u00f9 tu tra\u00eenes"
+      }, 
+      {
+        "duration": "03:44", 
+        "position": 5, 
+        "artists": [], 
+        "title": "Au sommet"
+      }, 
+      {
+        "duration": "01:52", 
+        "position": 6, 
+        "artists": [], 
+        "title": "Coul\u00e9 Alain Coul\u00e9"
+      }, 
+      {
+        "duration": "02:26", 
+        "position": 7, 
+        "artists": [], 
+        "title": "Grand-p\u00e8re"
+      }, 
+      {
+        "duration": "01:47", 
+        "position": 8, 
+        "artists": [], 
+        "title": "Demain"
+      }, 
+      {
+        "duration": "03:26", 
+        "position": 9, 
+        "artists": [], 
+        "title": "Jerusalem"
+      }, 
+      {
+        "duration": "02:08", 
+        "position": 10, 
+        "artists": [], 
+        "title": "Si solide"
+      }
+    ], 
+    "notes": "\n    Titres \u00e9crits en enregistr\u00e9s entre 2011 et 2014, \"demain\" est in\u00e9dit\n"
+  }, 
+  {
+    "artist": {
+      "_id": {
+        "$oid": "55008a8e8af9e306a03aefad"
+      }, 
+      "name": "Eddy Crampes"
+    }, 
+    "title": "La MOSTLA de Noel d'EDDY CRAMPES", 
+    "extra_artists": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeef0"
+        }, 
+        "role": "", 
+        "name": "Audrey Ginestet"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef84"
+        }, 
+        "role": "", 
+        "name": "Marjorie Calle"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeeef"
+        }, 
+        "role": "", 
+        "name": "Julien Gasc"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef7e"
+        }, 
+        "role": "", 
+        "name": "Benjamin Caschera"
+      }
+    ], 
+    "labels": [
+      {
+        "catno": "STRN-32", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2014-12-22", 
+    "_id": {
+      "$oid": "55008a8f8af9e306a03af027"
+    }, 
+    "tracklist": [
+      {
+        "duration": "02:54", 
+        "position": 1, 
+        "artists": [], 
+        "title": "Viens me voir cette nuit"
+      }, 
+      {
+        "duration": "03:24", 
+        "position": 2, 
+        "artists": [], 
+        "title": "Les plus beaux jours"
+      }, 
+      {
+        "duration": "02:08", 
+        "position": 3, 
+        "artists": [], 
+        "title": "Anoucka (version Mostla)"
+      }, 
+      {
+        "duration": "02:09", 
+        "position": 4, 
+        "artists": [], 
+        "title": "Du travail"
+      }, 
+      {
+        "duration": "03:36", 
+        "position": 5, 
+        "artists": [], 
+        "title": "Evidence"
+      }, 
+      {
+        "duration": "01:02", 
+        "position": 6, 
+        "artists": [], 
+        "title": "Mme Steingogler"
+      }, 
+      {
+        "duration": "01:15", 
+        "position": 7, 
+        "artists": [], 
+        "title": "J'ai quelque chose \u00e0 dire"
+      }, 
+      {
+        "duration": "01:34", 
+        "position": 8, 
+        "artists": [], 
+        "title": "Vive ma libert\u00e9"
+      }, 
+      {
+        "duration": "02:42", 
+        "position": 9, 
+        "artists": [], 
+        "title": "Portbail"
+      }, 
+      {
+        "duration": "05:10", 
+        "position": 10, 
+        "artists": [], 
+        "title": "J'aime beaucoup la musique"
+      }
+    ], 
+    "notes": "\nMerci \u00e0 Marjorie Calle, Audrey Ginestet, Julien Gasc, Benjamin Caschera, 2000 Records, Cecile Taffanelli et S\u00e9bastien Barrier pour la pochette. Et \u00e0 toutes les personnes qui m'aident et me supportent."
+  }, 
+  {
+    "artist": {
+      "_id": {
+        "$oid": "55008a8e8af9e306a03aefe4"
+      }, 
+      "name": "Les Passagers"
+    }, 
+    "title": "Les Passagers - Mostla tape", 
+    "extra_artists": [], 
+    "labels": [
+      {
+        "catno": "STRN-33", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2014-12-30", 
+    "_id": {
+      "$oid": "55008a8f8af9e306a03af028"
+    }, 
+    "tracklist": [
+      {
+        "duration": "04:55", 
+        "position": 1, 
+        "artists": [], 
+        "title": "Oulanne"
+      }, 
+      {
+        "duration": "04:33", 
+        "position": 2, 
+        "artists": [], 
+        "title": "\u00c0 l'int\u00e9rieur"
+      }, 
+      {
+        "duration": "04:05", 
+        "position": 3, 
+        "artists": [], 
+        "title": "Le ciel est noir"
+      }, 
+      {
+        "duration": "03:29", 
+        "position": 4, 
+        "artists": [], 
+        "title": "Le givre"
+      }, 
+      {
+        "duration": "03:18", 
+        "position": 5, 
+        "artists": [], 
+        "title": "Au bout du fil"
+      }, 
+      {
+        "duration": "04:53", 
+        "position": 6, 
+        "artists": [], 
+        "title": "D\u00e9j\u00e0 arriv\u00e9s"
+      }, 
+      {
+        "duration": "04:40", 
+        "position": 7, 
+        "artists": [], 
+        "title": "Acheter ta peau"
+      }, 
+      {
+        "duration": "04:19", 
+        "position": 8, 
+        "artists": [], 
+        "title": "L'eau sal\u00e9e"
+      }, 
+      {
+        "duration": "04:11", 
+        "position": 9, 
+        "artists": [], 
+        "title": "Sourire"
+      }, 
+      {
+        "duration": "04:40", 
+        "position": 10, 
+        "artists": [], 
+        "title": "Je ne sens rien"
+      }
+    ]
+  }, 
+  {
+    "title": "Vol. 5", 
+    "extra_artists": [
+      {
+        "role": "Artworks", 
+        "name_id": {
+          "$oid": "55008a8e8af9e306a03aeefe"
+        }, 
+        "name": "S\u00e9bastien Trihan"
+      }
+    ], 
+    "labels": [
+      {
+        "catno": "STRN-35", 
+        "name": "La Souterraine"
+      }
+    ], 
+    "released": "2015-01-07", 
+    "_id": {
+      "$oid": "5505c39a8af9e3367bb723dd"
+    }, 
+    "tracklist": [
+      {
+        "duration": "03:30", 
+        "position": 1, 
+        "artists": [
+          {
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723c2"
+            }, 
+            "name": "Sourdure"
+          }
+        ], 
+        "title": "Bonsoir Belle Berg\u00e8re"
+      }, 
+      {
+        "duration": "01:49", 
+        "position": 2, 
+        "artists": [
+          {
+            "name_id": {
+              "$oid": "5505a5098af9e3367bb7239c"
+            }, 
+            "name": "Maud Octallinn"
+          }
+        ], 
+        "title": "Super fi\u00e8re sur mon bulldozer"
+      }, 
+      {
+        "duration": "05:00", 
+        "position": 3, 
+        "artists": [
+          {
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723c3"
+            }, 
+            "name": "O"
+          }
+        ], 
+        "title": "B\u00e9bi"
+      }, 
+      {
+        "duration": "01:53", 
+        "position": 4, 
+        "artists": [
+          {
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723c4"
+            }, 
+            "name": "T\u00e9m\u00e9 Tan"
+          }
+        ], 
+        "title": "Motamo"
+      }, 
+      {
+        "duration": "03:42", 
+        "position": 5, 
+        "artists": [
+          {
+            "name_id": {
+              "$oid": "5505a5098af9e3367bb723a2"
+            }, 
+            "name": "Silvain Vanot"
+          }
+        ], 
+        "title": "Je suis le carnet de route"
+      }, 
+      {
+        "duration": "03:30", 
+        "position": 6, 
+        "artists": [
+          {
+            "name_id": {
+              "$oid": "5505a5098af9e3367bb723a4"
+            }, 
+            "name": "Mehdi Zannad"
+          }
+        ], 
+        "title": "Bagatelle"
+      }, 
+      {
+        "duration": "02:57", 
+        "position": 7, 
+        "artists": [
+          {
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723c5"
+            }, 
+            "name": "Requin Chagrin"
+          }
+        ], 
+        "title": "Ad\u00e9la\u00efde"
+      }, 
+      {
+        "duration": "02:25", 
+        "position": 8, 
+        "artists": [
+          {
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723c6"
+            }, 
+            "name": "Marie Math\u00e9matique"
+          }
+        ], 
+        "title": "Sinon je serais autre chose"
+      }, 
+      {
+        "duration": "25:42", 
+        "position": 9, 
+        "artists": [
+          {
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723c7"
+            }, 
+            "name": "France"
+          }
+        ], 
+        "title": "Meltdown of Planet Earth (en public au Festival Humanist SK'14)"
+      }, 
+      {
+        "duration": "03:57", 
+        "position": 10, 
+        "artists": [
+          {
+            "name_id": {
+              "$oid": "5505a5098af9e3367bb723a8"
+            }, 
+            "name": "Emmanuelle Parrenin"
+          }
+        ], 
+        "title": "Innocence Light"
+      }
+    ]
+  }, 
+  {
+    "artist": {
+      "name_id": {
+        "$oid": "5505c3438af9e3367bb723c9"
+      }, 
+      "name": "Flegmatic"
+    }, 
+    "title": "FLEGMATIC - Esprit de conqu\u00eate, la mostla tape", 
+    "notes": "\nD\u00e9but 2012, je suis rentr\u00e9 chez moi, dans le Tarn, dans un \u00e9tat \u00e9pouvantable. Je passais les mois qui suivirent, dans un \u00e9tat tr\u00e8s stable de vide et de pl\u00e9nitude. Ni heureux, ni malheureux, j'exp\u00e9rimentais un genre de bouddhisme. Les journ\u00e9es \u00e9taient douces, lumineuses, rassurantes, \u00e9gales et sans vent. Un changement de luminosit\u00e9 du jour pouvait me faire fondre en larmes. Incapable de me projeter dans l'avenir, j'essayais de me tenir \u00e0 une distance raisonnable de toute forme d'engagement avec autrui.\n\nJe touchais \u00e0 une forme de bonheur parfait.\n\nEt soudain ce fut \u00e9vident : il ne me restait que quelques mois \u00e0 vivre...\nJe me suis mis \u00e0 chanter des textes horribles d'une voix tr\u00e8s douce, sur des petites m\u00e9lodies, des petites bossa d\u00e9sinvoltes, \u00e0 m'effondrer sur le piano en murmurant des chansons un peu connes, \u00e0 \u00e9crire comme un type qui n'aurait plus aucun filtre (et plus de clopes au milieu de la nuit)... et mes obsessions pour les cartes topographiques, les viaducs autoroutiers, et l'auto-humiliation.\n\nBien que je n'ai jamais vraiment compris les partis-pris de l'anti-folk ou de l'anti-pop, je me suis dis que je faisais de l'anti-chanson. Puis, apr\u00e8s bien des aventures, je suis all\u00e9 chercher mon ami Michael Wookey, que j'accompagne au trombone avec les Hiddentracks depuis plus de trois ans, pour produire ce qui aurait d\u00fb \u00eatre un EP de 6 titres dans son studio d\u00e9bordant d'orgues de collection et d'instruments qu'il trafique lui-m\u00eame, EP auquel j'ai finalement ajout\u00e9 B\u00e9ziers enregistr\u00e9e chez mon ami Ives en 2013, et une petite grappe de chansons enregistr\u00e9es chez moi pour cette mostla-tape.\n\nC'est un peu d\u00e9cousu, du coup. J'aime bien.\n\nThomas Boudineau AKA Flegmatic\n\nRebecca, Peter Falk, Anniversaire, S.O.S, La nuit est une gorge chaude, L'autoroute : produit par Michael Wookey, Octobre 2014.\nArrangements : Thomas Boudineau & Michael Wookey. Choeurs : Marion Dinse et Michael.\n\nB\u00e9ziers : produit par Ives Grimonprez, studio Apperte Recordings, Saint-Etienne, Avril 2013.\nAvec Julien Bousquet, guitare et basse ; Flavien Girard, batterie ; Jean-Christophe Lacroix, trompette ; H\u00e9l\u00e8ne Doudi\u00e8s, choeurs (montage choeurs : Gilles Del\u00e8s).\n\nL'Europe, Il est partout, Tu es venue me parler : enregistr\u00e9es \u00e0 la maison, \u00e0 Albi, D\u00e9cembre 2014. Mix\u00e9es par Gilles Del\u00e8s \u00e0 Rethel, dans les Ardennes.\nL'Europe et Tu es venue me parler auraient \u00e9t\u00e9 un peu ternes sans la complicit\u00e9 de Ives Grimonprez dans l'\u00e9criture.\n\nMasteris\u00e9 par Gilles Del\u00e8s, Janvier 2015.\n\nphoto de couverture \u00a9 Phoebe Meyer // avant montage au scotch avec flegme\n\nPlus d'infos : montanadiscount.tumblr.com/flegmatic\n\nMerci Benjamin, Laurent, La Souterraine,\ntoute mon amiti\u00e9 pour Michael, Gilles, Ives, Micka\u00ebl, les Hiddentracks,\nMarion, H\u00e9l\u00e8ne,\nPhoebe, Laurent,\nDavid, Marie, Laurent, Jasmina de Froggy's Delight\nle Bleu Blanc Bar de Maison-Alfort,\n\nCharlotte M.\n\nMerci Richard Brautigan de m'avoir rendu le sourire... avant d'apprendre que tu t'\u00e9tais flingu\u00e9.\nLe Flegmatic reviendra dans l'album En l'absence de ressources humaines.\n", 
+    "labels": [
+      {
+        "catno": "STRN-37", 
+        "name": "la Souterraine"
+      }
+    ], 
+    "released": "2015-11-02", 
+    "_id": {
+      "$oid": "5505c39a8af9e3367bb723df"
+    }, 
+    "tracklist": [
+      {
+        "duration": "05:28", 
+        "position": 1, 
+        "extra_artists": [
+          {
+            "role": "Production, Arrangements, Backing vocals", 
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723ca"
+            }, 
+            "name": "Michael Wookey"
+          }, 
+          {
+            "role": "Backing vocals", 
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723cb"
+            }, 
+            "name": "Marion Dinse"
+          }
+        ], 
+        "title": "Rebecca"
+      }, 
+      {
+        "duration": "03:29", 
+        "position": 2, 
+        "extra_artists": [
+          {
+            "role": "Production", 
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723cc"
+            }, 
+            "name": "Ives Grimonperez"
+          }, 
+          {
+            "role": "Bass, Guitar", 
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723cd"
+            }, 
+            "name": "Julien Bousquet"
+          }, 
+          {
+            "role": "Drums", 
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723ce"
+            }, 
+            "name": "Flavien Girard"
+          }, 
+          {
+            "role": "Trumpet", 
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723cf"
+            }, 
+            "name": "Jean-Christophe Lacroix"
+          }, 
+          {
+            "role": "Chorus", 
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723d0"
+            }, 
+            "name": "H\u00e9l\u00e8ne Doudi\u00e8s"
+          }
+        ], 
+        "title": "B\u00e9ziers"
+      }, 
+      {
+        "duration": "05:48", 
+        "position": 3, 
+        "extra_artists": [
+          {
+            "role": "Production, Arrangements, Backing vocals", 
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723ca"
+            }, 
+            "name": "Michael Wookey"
+          }, 
+          {
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723d1"
+            }, 
+            "name": "Backing vocals"
+          }
+        ], 
+        "title": "La nuit est une gorge chaude"
+      }, 
+      {
+        "duration": "03:51", 
+        "position": 4, 
+        "extra_artists": [
+          {
+            "role": "Production, Arrangements, Backing vocals", 
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723ca"
+            }, 
+            "name": "Michael Wookey"
+          }, 
+          {
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723d1"
+            }, 
+            "name": "Backing vocals"
+          }
+        ], 
+        "title": "Peter Falk"
+      }, 
+      {
+        "duration": "03:44", 
+        "position": 5, 
+        "extra_artists": [
+          {
+            "role": "Production, Arrangements, Backing vocals", 
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723ca"
+            }, 
+            "name": "Michael Wookey"
+          }, 
+          {
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723d1"
+            }, 
+            "name": "Backing vocals"
+          }
+        ], 
+        "title": "Anniversaire"
+      }, 
+      {
+        "duration": "03:26", 
+        "position": 6, 
+        "extra_artists": [
+          {
+            "role": "Production, Arrangements, Backing vocals", 
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723ca"
+            }, 
+            "name": "Michael Wookey"
+          }, 
+          {
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723d1"
+            }, 
+            "name": "Backing vocals"
+          }
+        ], 
+        "title": "SOS"
+      }, 
+      {
+        "duration": "03:49", 
+        "position": 7, 
+        "extra_artists": [
+          {
+            "role": "Production, Arrangements, Backing vocals", 
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723ca"
+            }, 
+            "name": "Michael Wookey"
+          }, 
+          {
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723d1"
+            }, 
+            "name": "Backing vocals"
+          }
+        ], 
+        "title": "L'autoroute"
+      }, 
+      {
+        "duration": "03:29", 
+        "position": 8, 
+        "extra_artists": [
+          {
+            "role": "Mixing", 
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723d2"
+            }, 
+            "name": "Gilles Del\u00e8s"
+          }
+        ], 
+        "title": "L'Europe"
+      }, 
+      {
+        "duration": "02:24", 
+        "position": 9, 
+        "extra_artists": [
+          {
+            "role": "Mixing", 
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723d2"
+            }, 
+            "name": "Gilles Del\u00e8s"
+          }
+        ], 
+        "title": "Il est partout"
+      }, 
+      {
+        "duration": "03:28", 
+        "position": 10, 
+        "extra_artists": [
+          {
+            "role": "Mixing", 
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723d2"
+            }, 
+            "name": "Gilles Del\u00e8s"
+          }
+        ], 
+        "title": "Tu es venue me parler"
+      }
+    ], 
+    "extra_artists": []
+  }, 
+  {
+    "artist": {
+      "name_id": {
+        "$oid": "5505a5098af9e3367bb723ad"
+      }, 
+      "name": "Weli No\u00ebl"
+    }, 
+    "title": "Degrad - MOSTLATAPE", 
+    "notes": "\nJe me souviens d'un petit voyage sur l'Oyapock que j'ai fait avec W. depuis l\u2019ouest de la Guyane. On allait chez lui. Il avait une maison en bois sur un terrain uniquement accessible par le fleuve. On allait arracher des mauvaises herbes et retourner un peu la terre pour semer. Et aussi, pour ma part, bouquiner dans le hamac. W. avait une barquette qu'il laissait flotter au d\u00e9grad de Saint-Georges, la bourgade principale de l'est. On a pris la barquette avec tout notre barda, dont ma guitare. La barquette \u00e9tait pourrie et l\u2019eau s\u2019infiltrait. Au milieu du fleuve, on a commenc\u00e9 d\u2019\u00e9coper vivement, jusqu'\u00e0 ce qu'on r\u00e9alise l\u2019imparable : on allait couler. J\u2019ai regard\u00e9 W. avec circonspection. Dans son regard, aucun signe de d\u00e9sespoir, mais au contraire, un amusement bonhomme. Alors j\u2019ai ri. D\u2019abord de voir W. s\u2019enfoncer dans l\u2019eau sans changer de position, assis sur sa planche, pagaie \u00e0 la main et sourire en coin. J\u2019ai ri aussi car je me trouvai d\u2019un coup pr\u00e9cieusement ridicule d\u2019avoir compter rester sec. Enfin, j\u2019\u00e9tais heureux. Nos sacs de v\u00eatements, le mat\u00e9riel de jardinage et ma guitare prenaient leur ind\u00e9pendance en une pr\u00e9caire flottaison. C'\u00e9tait bon de tout laisser faire. Puis de toute fa\u00e7on, sa ki pou'w la rivi\u00e8 pa ka chay\u00e9'y. La preuve en est qu\u2019un piroguier br\u00e9silien nous a pris en cord\u00e9e et que la grande rivi\u00e8re n\u2019a pas emport\u00e9 nos fardeaux dans ses flots.\n\nIl faut aussi parler des animaux. Quelle stupeur charmante et un peu effrayante de voir les animaux de la for\u00eat chez eux. On se sent vraiment vivre.\n\nLa folle nature, les siestes transpirantes, la libert\u00e9 simple et la magie quotidienne sont les choses que j\u2019aime mettre dans mes chansons.\n\nJ\u2019ai enregistr\u00e9 un premier EP en 2009 (Une maison \u2013 Que font-ils en mon absence ?). Un single est sorti en 2010 (Fender benders en est la face b). Mon premier album voit le jour en ce d\u00e9but 2015. Dans cette Mostla tape figure une reprise de La ros\u00e9e si feuilles songes d\u2019Alain P\u00e9ters, po\u00e8te et musicien que j\u2019admire.\n\nJe chante et joue les guitares, les claviers et les percussions. H\u00e9l\u00e8ne Martin joue la contrebasse. Corentin Marot joue le saxophone soprano sur Cayenne. Les chansons ont \u00e9t\u00e9 mix\u00e9es et masteris\u00e9es par Jaike Stambach, Vincent Mons et R\u00e9mi Salvador.\n", 
+    "labels": [
+      {
+        "catno": "STRN-37", 
+        "name": "la Souterraine"
+      }
+    ], 
+    "released": "2015-02-28", 
+    "_id": {
+      "$oid": "5505c39a8af9e3367bb723e0"
+    }, 
+    "tracklist": [
+      {
+        "duration": "02:59", 
+        "position": 1, 
+        "title": "Zoli zombi zoli fant\u00f4me"
+      }, 
+      {
+        "duration": "03:27", 
+        "position": 2, 
+        "title": "Comme une enveloppe"
+      }, 
+      {
+        "duration": "03:18", 
+        "position": 3, 
+        "title": "La fluorescence"
+      }, 
+      {
+        "duration": "03:05", 
+        "position": 4, 
+        "title": "Une maison"
+      }, 
+      {
+        "duration": "03:12", 
+        "position": 5, 
+        "title": "La goyave"
+      }, 
+      {
+        "duration": "03:34", 
+        "position": 6, 
+        "extra_artists": [
+          {
+            "role": "Composer", 
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723d3"
+            }, 
+            "name": "Alain P\u00e9ters"
+          }
+        ], 
+        "title": "La ros\u00e9e si feuilles songes"
+      }, 
+      {
+        "duration": "03:49", 
+        "position": 7, 
+        "extra_artists": [
+          {
+            "role": "Soprano Sax", 
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723d4"
+            }, 
+            "name": "Corentin Marot"
+          }
+        ], 
+        "title": "Cayenne"
+      }, 
+      {
+        "duration": "03:47", 
+        "position": 8, 
+        "title": "Fender benders"
+      }, 
+      {
+        "duration": "04:11", 
+        "position": 9, 
+        "title": "Que font-ils en mon absence"
+      }, 
+      {
+        "duration": "01:23", 
+        "position": 10, 
+        "title": "Le destin"
+      }
+    ], 
+    "extra_artists": []
+  }, 
+  {
+    "title": "LA mostla N\u00d2VIA", 
+    "notes": "\nLA N\u00d2VIA est un collectif bas\u00e9 en Haute-Loire qui r\u00e9unit des musiciens r\u00e9sidant sur un large territoire (Auvergne, Rh\u00f4ne-Alpes, B\u00e9arn, Limousin, C\u00e9vennes, Franche-Comt\u00e9).\nCe collectif est un lieu de r\u00e9flexion et d'exp\u00e9rimentation autour des musiques traditionnelles et/ou exp\u00e9rimentales. La pluralit\u00e9 de ces acteurs cr\u00e9e une dynamique et une coh\u00e9rence esth\u00e9tique forte.\n", 
+    "labels": [
+      {
+        "catno": "STRN-38", 
+        "name": "la Souterraine"
+      }
+    ], 
+    "released": "2015-03-11", 
+    "_id": {
+      "$oid": "5505c39a8af9e3367bb723e1"
+    }, 
+    "tracklist": [
+      {
+        "duration": "09:59", 
+        "position": 1, 
+        "artists": [
+          {
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723d5"
+            }, 
+            "name": "Jericho"
+          }
+        ], 
+        "title": "La Mantille / Dia me tu Catinel"
+      }, 
+      {
+        "duration": "04:21", 
+        "position": 2, 
+        "artists": [
+          {
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723d6"
+            }, 
+            "name": "Toad"
+          }
+        ], 
+        "title": "Suite de bourr\u00e9es: Pa\u00efre ma\u00efre / I eron un i eron dos / Bourr\u00e9e \u00e0 Chabrier"
+      }, 
+      {
+        "duration": "04:01", 
+        "position": 3, 
+        "artists": [
+          {
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723d7"
+            }, 
+            "name": "Faune"
+          }
+        ], 
+        "title": "Qui veut entendre une chanson"
+      }, 
+      {
+        "duration": "08:59", 
+        "position": 4, 
+        "artists": [
+          {
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723d8"
+            }, 
+            "name": "La Cleda"
+          }
+        ], 
+        "title": "Lo vespre"
+      }, 
+      {
+        "duration": "20:20", 
+        "position": 5, 
+        "artists": [
+          {
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723d9"
+            }, 
+            "name": "Le Verdouble"
+          }
+        ], 
+        "title": "Blanlhac le 22/04/14"
+      }, 
+      {
+        "duration": "11:18", 
+        "position": 6, 
+        "artists": [
+          {
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723da"
+            }, 
+            "name": "Violonneuses"
+          }
+        ], 
+        "title": "Marches & bourr\u00e9es:  : Marche de Noce d'Alfred Mouret / Nosferatu / Pa\u00efre / N'ai tant / Bourr\u00e9e coul\u00e9e / Los chaumeilhos"
+      }, 
+      {
+        "duration": "06:06", 
+        "position": 7, 
+        "artists": [
+          {
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723db"
+            }, 
+            "name": "La Baracande"
+          }
+        ], 
+        "title": "Tout en me promenant"
+      }, 
+      {
+        "duration": "04:31", 
+        "position": 8, 
+        "artists": [
+          {
+            "role": "vielle \u00e0 roue", 
+            "name_id": {
+              "$oid": "5505a5098af9e3367bb723b3"
+            }, 
+            "name": "Yann Gourdon"
+          }, 
+          {
+            "role": "cornemuses 16p, 20p, 23p", 
+            "name_id": {
+              "$oid": "5505c3438af9e3367bb723dc"
+            }, 
+            "name": "St\u00e9phane Mauchand"
+          }
+        ], 
+        "title": "Scottishs: Tabadhadin / \u00c0 table"
+      }, 
+      {
+        "duration": "08:23", 
+        "position": 9, 
+        "artists": [
+          {
+            "role": "cabrette, chant", 
+            "name_id": {
+              "$oid": "5505a5098af9e3367bb723b1"
+            }, 
+            "name": "Jacques Puech"
+          }, 
+          {
+            "role": "vielle \u00e0 roue", 
+            "name_id": {
+              "$oid": "5505a5098af9e3367bb723b3"
+            }, 
+            "name": "Yann Gourdon"
+          }
+        ], 
+        "title": "La Can\u00e7on"
+      }, 
+      {
+        "duration": "10:01", 
+        "position": 10, 
+        "artists": [
+          {
+            "role": "cabrette", 
+            "name_id": {
+              "$oid": "5505a5098af9e3367bb723b1"
+            }, 
+            "name": "Jacques Puech"
+          }, 
+          {
+            "role": "vielle \u00e0 roue", 
+            "name_id": {
+              "$oid": "5505a5098af9e3367bb723b3"
+            }, 
+            "name": "Yann Gourdon"
+          }, 
+          {
+            "role": "violon", 
+            "name_id": {
+              "$oid": "5505a5098af9e3367bb723b9"
+            }, 
+            "name": "Basile Br\u00e9maud"
+          }
+        ], 
+        "title": "Ont menarem"
+      }
+    ], 
+    "extra_artists": []
+  }
+]

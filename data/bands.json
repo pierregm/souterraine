@@ -1,0 +1,2302 @@
+[
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aef87"
+    }, 
+    "bio": [], 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeef6"
+        }, 
+        "name": "Julien Barbagallo"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeeef"
+        }, 
+        "name": "Julien Gasc"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeef0"
+        }, 
+        "name": "Audrey Ginestet"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeef4"
+        }, 
+        "name": "Benjamin Glibert"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeef5"
+        }, 
+        "name": "Manon Glibert"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef08"
+        }, 
+        "name": "Lucie Antunes"
+      }
+    ], 
+    "discogs_id": 1288637, 
+    "name": "Aquaserge", 
+    "previous_members": [], 
+    "strn": true, 
+    "tags": [], 
+    "urls": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aef88"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeeef"
+        }, 
+        "name": "Julien Gasc"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeef1"
+        }, 
+        "name": "Clementine March"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeef2"
+        }, 
+        "name": "Shirley Tang"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeef3"
+        }, 
+        "name": "Fanny Harlay"
+      }
+    ], 
+    "discogs_id": 819640, 
+    "name": "Julien Gasc", 
+    "previous_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeef0"
+        }, 
+        "name": "Audrey Ginestet"
+      }
+    ], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aef89"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef09"
+        }, 
+        "name": "Fr\u00e9d\u00e9ric Jean"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef07"
+        }, 
+        "name": "Ludovic Dulac"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef06"
+        }, 
+        "name": "Olivier Cussac"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeef4"
+        }, 
+        "name": "Benjamin Glibert"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef0a"
+        }, 
+        "name": "\u00c9mile Sornin"
+      }
+    ], 
+    "discogs_id": 819645, 
+    "name": "Hyperclean", 
+    "previous_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeef6"
+        }, 
+        "name": "Julien Barbagallo"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeeef"
+        }, 
+        "name": "Julien Gasc"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef23"
+        }, 
+        "name": "Pablo Padovani"
+      }
+    ], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aef8a"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeef9"
+        }, 
+        "name": "Catherine Hershey"
+      }
+    ], 
+    "discogs_id": 3684977, 
+    "name": "Catherine Hershey", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aef8b"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeefa"
+        }, 
+        "name": "Mocke"
+      }
+    ], 
+    "discogs_id": 388507, 
+    "name": "Mocke", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aef8c"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeefa"
+        }, 
+        "name": "Mocke"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeefb"
+        }, 
+        "name": "Armelle Pioline"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef46"
+        }, 
+        "name": "Cristobal Carvajal-Rastello"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef47"
+        }, 
+        "name": "Ludovic Leleu"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef48"
+        }, 
+        "name": "Jean Grappin"
+      }
+    ], 
+    "discogs_id": 224539, 
+    "name": "Holden", 
+    "previous_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef49"
+        }, 
+        "name": "Richard Cousin"
+      }
+    ], 
+    "strn": false
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aef8d"
+    }, 
+    "current_members": [], 
+    "discogs_id": 101496, 
+    "name": "Tara King Th.", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aef8e"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeefc"
+        }, 
+        "name": "Agn\u00e8s Gayraud"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef4a"
+        }, 
+        "name": "S\u00e9bastien Dousson"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef4b"
+        }, 
+        "name": "Xavier Thiry"
+      }
+    ], 
+    "discogs_id": 2278263, 
+    "name": "La F\u00e9line", 
+    "previous_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef27"
+        }, 
+        "name": "Ricky Hollywood"
+      }
+    ], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aef8f"
+    }, 
+    "current_members": [], 
+    "discogs_id": 2100427, 
+    "name": "Alaclair Ensemble", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aef90"
+    }, 
+    "current_members": [], 
+    "discogs_id": 2498242, 
+    "name": "Noir Boy George", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aef91"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeefd"
+        }, 
+        "name": "Marc Desse"
+      }
+    ], 
+    "discogs_id": 2850712, 
+    "name": "Marc Desse", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aef92"
+    }, 
+    "current_members": [], 
+    "name": "Louisville", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aef93"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeeef"
+        }, 
+        "name": "Julien Gasc"
+      }
+    ], 
+    "discogs_id": 2030507, 
+    "name": "Momotte", 
+    "previous_members": [], 
+    "strn": false
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aef94"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeeff"
+        }, 
+        "name": "Laetitia Sadier"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeeef"
+        }, 
+        "name": "Julien Gasc"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef2f"
+        }, 
+        "name": "Tim Gane"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef31"
+        }, 
+        "name": "Andy Ramsay"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef37"
+        }, 
+        "name": "Joe Walters"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef38"
+        }, 
+        "name": "Joe Watson"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef3e"
+        }, 
+        "name": "Simon Johns"
+      }
+    ], 
+    "discogs_id": 388, 
+    "name": "Stereolab", 
+    "previous_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef32"
+        }, 
+        "name": "Dominic Jeffery"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef33"
+        }, 
+        "name": "Sean O'Hagan"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef34"
+        }, 
+        "name": "Duncan Brown"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef39"
+        }, 
+        "name": "Katharine Gifford"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef35"
+        }, 
+        "name": "Gina Morris"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef36"
+        }, 
+        "name": "Joe Dilworth"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef3a"
+        }, 
+        "name": "Martin Kean"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef3b"
+        }, 
+        "name": "Mary Hansen"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef3c"
+        }, 
+        "name": "Morgane Lhote"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef3d"
+        }, 
+        "name": "Richard Harrison"
+      }
+    ], 
+    "strn": false
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aef95"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeef8"
+        }, 
+        "name": "Henning Specht"
+      }
+    ], 
+    "name": "Henning Specht", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aef96"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeef8"
+        }, 
+        "name": "Henning Specht"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef4c"
+        }, 
+        "name": "Ali Allalou"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef4d"
+        }, 
+        "name": "Farid Allalou"
+      }
+    ], 
+    "discogs_id": 8765, 
+    "name": "Eternals, The", 
+    "previous_members": [], 
+    "strn": false
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aef97"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeef8"
+        }, 
+        "name": "Henning Specht"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef4e"
+        }, 
+        "name": "Pierre Gastou"
+      }
+    ], 
+    "discogs_id": 96750, 
+    "name": "Fiendish Fib", 
+    "previous_members": [], 
+    "strn": false
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aef98"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeef8"
+        }, 
+        "name": "Henning Specht"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef4f"
+        }, 
+        "name": "Fran\u00e7ois Remigi"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef4e"
+        }, 
+        "name": "Pierre Gastou"
+      }
+    ], 
+    "discogs_id": 2146113, 
+    "name": "France", 
+    "previous_members": [], 
+    "strn": false
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aef9a"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef01"
+        }, 
+        "name": "Arnaud Le Gou\u00ebfflec"
+      }
+    ], 
+    "discogs_id": 824546, 
+    "name": "Arnaud Le Gou\u00ebfflec", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aef9e"
+    }, 
+    "current_members": [], 
+    "discogs_id": 3364040, 
+    "name": "Chevalrex", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aef99"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeef8"
+        }, 
+        "name": "Henning Specht"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef50"
+        }, 
+        "name": "Nicolas Sentenac"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef51"
+        }, 
+        "name": "Thierry Moreira"
+      }
+    ], 
+    "discogs_id": 92258, 
+    "name": "Hypnolove", 
+    "previous_members": [], 
+    "strn": false
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aef9b"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef04"
+        }, 
+        "name": "ooTi"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef03"
+        }, 
+        "name": "John Trap"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef01"
+        }, 
+        "name": "Arnaud Le Gou\u00ebfflec"
+      }
+    ], 
+    "discogs_id": 3894243, 
+    "name": "La Bo\u00eete \u00e0 ooTi", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aef9c"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef01"
+        }, 
+        "name": "Arnaud Le Gou\u00ebfflec"
+      }
+    ], 
+    "discogs_id": 1949453, 
+    "name": "L'Orchestre Pr\u00e9historique", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aef9d"
+    }, 
+    "current_members": [], 
+    "discogs_id": 2952438, 
+    "name": "Jorge Bernstein and the Pioupioufuckers", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aef9f"
+    }, 
+    "current_members": [], 
+    "name": "Clich\u00e9", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefa0"
+    }, 
+    "current_members": [], 
+    "discogs_id": 3416863, 
+    "name": "Nouveau Zodiaque", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefa1"
+    }, 
+    "current_members": [], 
+    "discogs_id": 4273839, 
+    "name": "Pain-Noir", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefa2"
+    }, 
+    "current_members": [], 
+    "discogs_id": 3716999, 
+    "name": "Glockabelle", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefa3"
+    }, 
+    "current_members": [], 
+    "name": "Antoine Loyer", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefa4"
+    }, 
+    "current_members": [], 
+    "discogs_id": 2136637, 
+    "name": "Baron R\u00e9tif & Concepcion Perez", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefa5"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeef6"
+        }, 
+        "name": "Julien Barbagallo"
+      }
+    ], 
+    "discogs_id": 1840766, 
+    "name": "LeCube", 
+    "previous_members": [], 
+    "strn": false
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefa6"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef0f"
+        }, 
+        "name": "Xavier Boyer"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef0c"
+        }, 
+        "name": "M\u00e9d\u00e9ric Gontier"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef0d"
+        }, 
+        "name": "Pedro Resende"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef0e"
+        }, 
+        "name": "Sylvain Marchand"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef10"
+        }, 
+        "name": "Hadrien Grange"
+      }
+    ], 
+    "discogs_id": 40527, 
+    "name": "Tahiti 80", 
+    "previous_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeef6"
+        }, 
+        "name": "Julien Barbagallo"
+      }
+    ], 
+    "strn": false
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefa7"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef11"
+        }, 
+        "name": "Cameron Avery"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeef6"
+        }, 
+        "name": "Julien Barbagallo"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef14"
+        }, 
+        "name": "Kevin Park"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef12"
+        }, 
+        "name": "Dominic Simper"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef13"
+        }, 
+        "name": "Jay Watson"
+      }
+    ], 
+    "discogs_id": 1245513, 
+    "name": "Tame Impala", 
+    "previous_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef86"
+        }, 
+        "name": "Nick Allbrook"
+      }
+    ], 
+    "strn": false
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefa8"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef15"
+        }, 
+        "name": "Julien Granjean"
+      }
+    ], 
+    "name": "Julien Granjean", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefa9"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef52"
+        }, 
+        "name": "Baptiste Nollet"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef53"
+        }, 
+        "name": "Fred Trux"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef54"
+        }, 
+        "name": "Paul Jimenes"
+      }
+    ], 
+    "discogs_id": 1806297, 
+    "name": "Pierre et Bastien", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefaa"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef16"
+        }, 
+        "name": "Joseph-Edmond Vincent Leduc"
+      }
+    ], 
+    "discogs_id": 3100697, 
+    "name": "Joseph-Edmond Vincent Leduc", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefab"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef17"
+        }, 
+        "name": "R\u00e9mi Parson"
+      }
+    ], 
+    "discogs_id": 809936, 
+    "name": "R\u00e9mi Parson", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefac"
+    }, 
+    "current_members": [], 
+    "name": "Pharaon de Winter", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefad"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef18"
+        }, 
+        "name": "Eddy Crampes"
+      }
+    ], 
+    "discogs_id": 1657736, 
+    "name": "Eddy Crampes", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefae"
+    }, 
+    "current_members": [], 
+    "discogs_id": 1916024, 
+    "name": "Petit Tambour", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefaf"
+    }, 
+    "current_members": [], 
+    "discogs_id": 4099810, 
+    "name": "la Baracande", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefb0"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef55"
+        }, 
+        "name": "Aur\u00e9lie F\u00e9rri\u00e8re"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef56"
+        }, 
+        "name": "Dennis Fahlgren"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef57"
+        }, 
+        "name": "Nina Andersson"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef58"
+        }, 
+        "name": "Sanna Bostr\u00f6m"
+      }
+    ], 
+    "discogs_id": 2605504, 
+    "name": "Cikatri$", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefb1"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef59"
+        }, 
+        "name": "Baptiste W. Hamon"
+      }
+    ], 
+    "discogs_id": 4052708, 
+    "name": "Baptiste W. Hamon", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefb2"
+    }, 
+    "current_members": [], 
+    "name": "Facteurs Chevaux", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefb3"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef19"
+        }, 
+        "name": "Nicolas Paugam"
+      }
+    ], 
+    "discogs_id": 1734669, 
+    "name": "Nicolas Paugam", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefb4"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef19"
+        }, 
+        "name": "Nicolas Paugam"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef1a"
+        }, 
+        "name": "Alexandre Paugam"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef1b"
+        }, 
+        "name": "\u00c9mile Zardoz"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef1c"
+        }, 
+        "name": "J\u00e9r\u00e9my Pavaday"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef1d"
+        }, 
+        "name": "Stephen Pills"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef1e"
+        }, 
+        "name": "Julien Jacquot"
+      }
+    ], 
+    "discogs_id": 1058439, 
+    "name": "Da Capo", 
+    "previous_members": [], 
+    "strn": false
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefb5"
+    }, 
+    "current_members": [], 
+    "discogs_id": 3157114, 
+    "name": "Taulard", 
+    "previous_members": [], 
+    "strn": false
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefb6"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef5a"
+        }, 
+        "name": "Gautier Deschamps"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef5b"
+        }, 
+        "name": "Geoffroy Laporte"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef5c"
+        }, 
+        "name": "Guillaume Cardin"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef5d"
+        }, 
+        "name": "Sidoine Floc'h"
+      }
+    ], 
+    "discogs_id": 2973903, 
+    "name": "Trotski Nautique", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefb7"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef1f"
+        }, 
+        "name": "Sophie Savon"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef20"
+        }, 
+        "name": "Beno\u00eet Tranchand"
+      }
+    ], 
+    "discogs_id": 3635732, 
+    "name": "Savon Tranchand", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefb8"
+    }, 
+    "current_members": [], 
+    "name": "Cheatcode", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefb9"
+    }, 
+    "current_members": [], 
+    "name": "Accident", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefba"
+    }, 
+    "current_members": [], 
+    "discogs_id": 632149, 
+    "name": "Les Fr\u00e8res Nubuck", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefbb"
+    }, 
+    "current_members": [], 
+    "name": "Hoepffner", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefbc"
+    }, 
+    "current_members": [], 
+    "name": "Pumuckl", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefbd"
+    }, 
+    "current_members": [], 
+    "name": "Del Cielo", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefbe"
+    }, 
+    "current_members": [], 
+    "discogs_id": 2550680, 
+    "name": "Z\u00e9ro Degr\u00e9", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefbf"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef5f"
+        }, 
+        "name": "Guillaume Belhomme"
+      }
+    ], 
+    "discogs_id": 119916, 
+    "name": "Gypsophile", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefc0"
+    }, 
+    "current_members": [], 
+    "discogs_id": 3786790, 
+    "name": "Cvantez", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefc1"
+    }, 
+    "current_members": [], 
+    "name": "Lou", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefc2"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef23"
+        }, 
+        "name": "Pablo Padovani"
+      }
+    ], 
+    "discogs_id": 3455741, 
+    "name": "Moodoid", 
+    "previous_members": [], 
+    "strn": false
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefc3"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef24"
+        }, 
+        "name": "T. Gontard"
+      }
+    ], 
+    "discogs_id": 3646538, 
+    "name": "Colombey", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefc4"
+    }, 
+    "current_members": [], 
+    "discogs_id": 3699468, 
+    "name": "Carl et les Hommes Bo\u00eetes", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefc5"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef25"
+        }, 
+        "name": "Laure Briard"
+      }
+    ], 
+    "discogs_id": 1288636, 
+    "name": "Laure Briard", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefc6"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef26"
+        }, 
+        "name": "Orso Jesenska"
+      }
+    ], 
+    "discogs_id": 3893815, 
+    "name": "Orso Jesenska", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefc7"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef27"
+        }, 
+        "name": "Ricky Hollywood"
+      }
+    ], 
+    "discogs_id": 1919815, 
+    "name": "Ricky Hollywood", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefc8"
+    }, 
+    "current_members": [], 
+    "discogs_id": 4017580, 
+    "name": "Alma Forrer", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefc9"
+    }, 
+    "current_members": [], 
+    "discogs_id": 2787706, 
+    "name": "Rhume", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefca"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef28"
+        }, 
+        "name": "J\u00e9r\u00e9mie Orsel"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef29"
+        }, 
+        "name": "Benjamin Esdraffo"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef10"
+        }, 
+        "name": "Hadrien Grange"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef2a"
+        }, 
+        "name": "Johan Girard"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef2b"
+        }, 
+        "name": "Laurent Talon"
+      }
+    ], 
+    "discogs_id": 3147951, 
+    "name": "Dorian Pimpernel", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefcb"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeeff"
+        }, 
+        "name": "Laetitia Sadier"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef00"
+        }, 
+        "name": "Emma Mario"
+      }
+    ], 
+    "discogs_id": 72408, 
+    "name": "Laetitia Sadier", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefcc"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeeff"
+        }, 
+        "name": "Laetitia Sadier"
+      }
+    ], 
+    "discogs_id": 4052042, 
+    "name": "Little Tornados", 
+    "previous_members": [], 
+    "strn": false
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefcd"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeeff"
+        }, 
+        "name": "Laetitia Sadier"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef30"
+        }, 
+        "name": "David Loquier"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef7f"
+        }, 
+        "name": "Marie Merlet"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef80"
+        }, 
+        "name": "Nicolas \u00c9tienne"
+      }
+    ], 
+    "discogs_id": 68350, 
+    "name": "Monade", 
+    "previous_members": [], 
+    "strn": false
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefce"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeeff"
+        }, 
+        "name": "Laetitia Sadier"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef2f"
+        }, 
+        "name": "Tim Gane"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef2e"
+        }, 
+        "name": "Malcolm Eden"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef2c"
+        }, 
+        "name": "Gary Baker"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef2d"
+        }, 
+        "name": "John Williamson"
+      }
+    ], 
+    "discogs_id": 145670, 
+    "name": "McCarthy", 
+    "previous_members": [], 
+    "strn": false
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefcf"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef3f"
+        }, 
+        "name": "Carl-\u00c9ric Hudon"
+      }
+    ], 
+    "discogs_id": 2965293, 
+    "name": "Carl-\u00c9ric Hudon", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefd0"
+    }, 
+    "current_members": [], 
+    "discogs_id": 3315076, 
+    "name": "Midget!", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefd1"
+    }, 
+    "current_members": [], 
+    "name": "MFU", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefd2"
+    }, 
+    "current_members": [], 
+    "name": "Double Fran\u00e7oise", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefd3"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef40"
+        }, 
+        "name": "Sophie Galet"
+      }
+    ], 
+    "discogs_id": 619108, 
+    "name": "Sophie Galet", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefd4"
+    }, 
+    "current_members": [], 
+    "name": "Kramer", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefd5"
+    }, 
+    "current_members": [], 
+    "name": "NOW", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefd6"
+    }, 
+    "current_members": [], 
+    "name": "Goldenboy", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefd7"
+    }, 
+    "current_members": [], 
+    "discogs_id": 544532, 
+    "name": "Benjamin Schoos", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefd8"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef64"
+        }, 
+        "name": "David Chazam"
+      }
+    ], 
+    "name": "Superstar Chazam", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefd9"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef41"
+        }, 
+        "name": "Benjamin Schoos"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef60"
+        }, 
+        "name": "Jampur Fraize"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef61"
+        }, 
+        "name": "J\u00e9r\u00f4me Danthinne"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef62"
+        }, 
+        "name": "Marc Wathieu"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef63"
+        }, 
+        "name": "Android 80"
+      }
+    ], 
+    "discogs_id": 3342694, 
+    "name": "Loved Drones, The", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefda"
+    }, 
+    "current_members": [], 
+    "name": "Ventre de biche", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefdb"
+    }, 
+    "current_members": [], 
+    "name": "Charnier", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefdc"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef65"
+        }, 
+        "name": "Mulan Serrico"
+      }
+    ], 
+    "discogs_id": 2175431, 
+    "name": "Mulan Serrico", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefdd"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef44"
+        }, 
+        "name": "Costes"
+      }
+    ], 
+    "discogs_id": 102546, 
+    "name": "Costes", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefde"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef66"
+        }, 
+        "name": "Klaus Legal"
+      }
+    ], 
+    "discogs_id": 3157118, 
+    "name": "Klaus Legal", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefdf"
+    }, 
+    "current_members": [], 
+    "name": "SIDA", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefe0"
+    }, 
+    "current_members": [], 
+    "discogs_id": 3654897, 
+    "name": "P\u00e9tra Pied de Biche", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefe1"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef67"
+        }, 
+        "name": "Guillaume Chiasson"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef68"
+        }, 
+        "name": "Maxime Chiasson"
+      }
+    ], 
+    "discogs_id": 2270533, 
+    "name": "Ponctuation", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefe2"
+    }, 
+    "current_members": [], 
+    "discogs_id": 3350006, 
+    "name": "Casio Judiciaire", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefe3"
+    }, 
+    "current_members": [], 
+    "discogs_id": 3340142, 
+    "name": "Dead Obies", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefe4"
+    }, 
+    "current_members": [], 
+    "name": "Les Passagers", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefe5"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef69"
+        }, 
+        "name": "Kyle McKeveny"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef6a"
+        }, 
+        "name": "Luke Fox"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef6b"
+        }, 
+        "name": "Quay Quinn"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef6c"
+        }, 
+        "name": "Thomas Quigley"
+      }
+    ], 
+    "discogs_id": 2649340, 
+    "name": "Slowdance", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefe6"
+    }, 
+    "current_members": [], 
+    "discogs_id": 3824647, 
+    "name": "DTCV", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefe7"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef6d"
+        }, 
+        "name": "Fran\u00e7ois Berger"
+      }
+    ], 
+    "discogs_id": 469507, 
+    "name": "Murmure", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefe8"
+    }, 
+    "current_members": [], 
+    "discogs_id": 438789, 
+    "name": "Arrington de Dionyso", 
+    "previous_members": [], 
+    "strn": true
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefe9"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef6e"
+        }, 
+        "name": "Azure de Gr\u00e2ce"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef6f"
+        }, 
+        "name": "Beno\u00eet Poirier"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef67"
+        }, 
+        "name": "Guillaume Chiasson"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef70"
+        }, 
+        "name": "Martin Blackburn"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef71"
+        }, 
+        "name": "Philippe Hamelin"
+      }
+    ], 
+    "discogs_id": 2236296, 
+    "name": "Jesuslesfilles", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefea"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef72"
+        }, 
+        "name": "Leda Celeste Ginestra"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef73"
+        }, 
+        "name": "Phillip Gonzalez"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef74"
+        }, 
+        "name": "Samantha Wendel"
+      }
+    ], 
+    "discogs_id": 2916079, 
+    "name": "Crooked Bangs", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefeb"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef45"
+        }, 
+        "name": "Bernard Grancher"
+      }
+    ], 
+    "discogs_id": 2429219, 
+    "name": "Bernard Grancher", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefec"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef75"
+        }, 
+        "name": "Cris Romero"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef76"
+        }, 
+        "name": "David Vidal"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef77"
+        }, 
+        "name": "Fran Torres"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef78"
+        }, 
+        "name": "Maria Berrero"
+      }
+    ], 
+    "discogs_id": 3087851, 
+    "name": "The Royal Landscaping Society", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefed"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef79"
+        }, 
+        "name": "Holden Brahms"
+      }
+    ], 
+    "discogs_id": 2264178, 
+    "name": "Doctrine", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefee"
+    }, 
+    "current_members": [], 
+    "discogs_id": 2692882, 
+    "name": "Drug Train", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefef"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef7a"
+        }, 
+        "name": "Julie Mouchel"
+      }
+    ], 
+    "discogs_id": 4129213, 
+    "name": "Julie Mouchel", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aeff0"
+    }, 
+    "current_members": [], 
+    "discogs_id": 2242144, 
+    "name": "I Do Not Love", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aeff1"
+    }, 
+    "current_members": [], 
+    "discogs_id": 3620393, 
+    "name": "Micro Cheval", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aeff2"
+    }, 
+    "current_members": [], 
+    "discogs_id": 3108425, 
+    "name": "Super Crayon", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aeff3"
+    }, 
+    "current_members": [], 
+    "discogs_id": 2147705, 
+    "name": "Maman Kusters", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aeff4"
+    }, 
+    "current_members": [], 
+    "discogs_id": 4129212, 
+    "name": "D\u00e9j\u00e0 Vu", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aeff5"
+    }, 
+    "current_members": [], 
+    "discogs_id": 2975079, 
+    "name": "Skint Eastwood", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aeff6"
+    }, 
+    "current_members": [], 
+    "discog_id": 3209860, 
+    "name": "Self Portraits", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aeff7"
+    }, 
+    "current_members": [], 
+    "discogs_id": 3651321, 
+    "name": "Seahorse Hunter", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aeff8"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef7b"
+        }, 
+        "name": "Ekin Sana\u00e7"
+      }, 
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef7c"
+        }, 
+        "name": "Berna G\u00f6l"
+      }
+    ], 
+    "name": "Kim Ki O", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aeff9"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef7d"
+        }, 
+        "name": "Emmanuelle de H\u00e9ricourt"
+      }
+    ], 
+    "discogs_id": 568028, 
+    "name": "EDH", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aeffa"
+    }, 
+    "current_members": [], 
+    "discogs_id": 3800428, 
+    "name": "Yuko Yuko", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aeffb"
+    }, 
+    "current_members": [], 
+    "discogs_id": 3165771, 
+    "name": "Rex Fonofor", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aeffc"
+    }, 
+    "current_members": [], 
+    "name": "Le B\u00e2timent", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aeffd"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef24"
+        }, 
+        "name": "T. Gontard"
+      }
+    ], 
+    "name": "Gontard!", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aeffe"
+    }, 
+    "current_members": [], 
+    "discogs_id": 2050447, 
+    "name": "Arlt", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03aefff"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef81"
+        }, 
+        "name": "Arnaud Michniak"
+      }
+    ], 
+    "discogs_id": 230059, 
+    "name": "Michniak", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03af000"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef22"
+        }, 
+        "name": "Dominique A."
+      }
+    ], 
+    "discogs_id": 166729, 
+    "name": "Dominique A.", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03af001"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aeef6"
+        }, 
+        "name": "Julien Barbagallo"
+      }
+    ], 
+    "discogs_id": 819641, 
+    "name": "Julien Barbagallo", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03af002"
+    }, 
+    "current_members": [], 
+    "discogs_id": 2365351, 
+    "name": "Big Mister Doom", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03af003"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef82"
+        }, 
+        "name": "Laurent Garnier"
+      }
+    ], 
+    "discogs_id": 750, 
+    "name": "Laurent Garnier", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03af004"
+    }, 
+    "current_members": [
+      {
+        "_id": {
+          "$oid": "55008a8e8af9e306a03aef83"
+        }, 
+        "name": "Jos\u00e9 Kaminski"
+      }
+    ], 
+    "discogs_id": 107191, 
+    "name": "Roc\u00e9", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03af005"
+    }, 
+    "current_members": [], 
+    "discogs_id": 3089135, 
+    "name": "Jacaranda Muse", 
+    "previous_members": []
+  }, 
+  {
+    "_id": {
+      "$oid": "55008a8e8af9e306a03af006"
+    }, 
+    "current_members": [], 
+    "discogs_id": 3844823, 
+    "name": "COEFF", 
+    "previous_members": []
+  }
+]
